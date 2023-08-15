@@ -1,0 +1,7334 @@
+{
+    "version": 0.6,
+    "generator": "Overpass API 0.7.60.2 e4cf9f7a",
+    "osm3s": {
+        "timestamp_osm_base": "2023-05-17T13:56:53Z",
+        "timestamp_areas_base": "2023-05-17T08:54:39Z",
+        "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+    },
+    "elements": [
+        {
+            "type": "relation",
+            "id": 1257116,
+            "members": [
+                {
+                    "type": "node",
+                    "ref": 1577467608,
+                    "role": "stop_entry_only"
+                },
+                {
+                    "type": "node",
+                    "ref": 4747349722,
+                    "role": "platform_entry_only"
+                },
+                {
+                    "type": "node",
+                    "ref": 4944697097,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2207102106,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5154910032,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 1577467588,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5154910031,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 5142458109,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5154910030,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 1577467570,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2875110253,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 5154910029,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 96136750,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 589397548,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5154910028,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 589365381,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5142458115,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2958494953,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 4839206604,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 4839206605,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 4920961472,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 4920961473,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5154968803,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2042462338,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5154968802,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 5979563871,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 6463644636,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 4294770466,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5154968801,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 1507750607,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5154968800,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 4328377270,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 6303052596,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 6130070518,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 4851333521,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2467125815,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2472523787,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5265461921,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2329839716,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2328721237,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2328721228,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 8697441570,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2328721244,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2317308531,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2281243444,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2330869330,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2042462378,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2494555639,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2494555640,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 4923266315,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2078906761,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2494555635,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2042462384,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2494555633,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 974091335,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5155923704,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 974091292,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5155923703,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 974091319,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2905104532,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 974091305,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2905104535,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2905104536,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2494555643,
+                    "role": "stop_exit_only"
+                },
+                {
+                    "type": "node",
+                    "ref": 2494555644,
+                    "role": "platform_exit_only"
+                },
+                {
+                    "type": "way",
+                    "ref": 682963075,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 670857468,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 529365924,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 121067192,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 812891165,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 538813973,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 534436308,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 14111021,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 534026938,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 120997889,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 109400103,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 679307953,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 210609568,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 360133451,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 10816261,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24043512,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 53649849,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 1115336870,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 761770662,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 25477293,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 233643337,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 529252555,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 976918309,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 53798368,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 976918308,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 336795940,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 45765306,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 1093090364,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 32424482,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 37190923,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 156617864,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 8059209,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 156992561,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 31979916,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 1121533824,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24044048,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 949039246,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 22690248,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24868187,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24868186,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 19435006,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 156620490,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 74864178,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 172017269,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 845789144,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 687388759,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 30168418,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 4039917,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 654160913,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 4039523,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 3498992,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 548562634,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 845790438,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 845790439,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 977135079,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 238907028,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 239478601,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 1024593144,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 239478604,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 191694881,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 178237238,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 223928002,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 25485465,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 14187576,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 172680901,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 14184533,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 4039288,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 512352568,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 544730960,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 544728023,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 544728962,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 544727632,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 536837280,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 245453089,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 245453097,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 246685174,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 246685171,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 53098919,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 246685172,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 868171365,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 870906309,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 4039245,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 34675236,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 670689932,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 34675270,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 224883159,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 197510656,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 577311511,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24037789,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 156620488,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24014782,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24014764,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24037753,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 514809279,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 52587170,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 597916567,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 1126474519,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 1126474520,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 867336860,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24606807,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24678014,
+                    "role": ""
+                }
+            ],
+            "tags": {
+                "colour": "#EE1B29",
+                "from": "Japon",
+                "name": "Problem : Gambetta - Japon \u2192 Porte de Montmartre",
+                "network": "R",
+                "network:wikidata": "Q474674",
+                "network:wikipedia": "fr:R\u00e9seau de bus RATP",
+                "operator": "RATP",
+                "operator:wikidata": "Q643290",
+                "operator:wikipedia": "fr:R\u00e9gie autonome des transports parisiens",
+                "public_transport:version": "2",
+                "ref": "60",
+                "ref:FR:RATP": "100600001",
+                "ref:FR:STIF:direction_id": "0",
+                "route": "bs",
+                "to": "Porte de Montmartre",
+                "type": "ute",
+                "wheelchair": "ys"
+            }
+        },
+        {
+            "type": "relation",
+            "id": 1257121,
+            "members": [
+                {
+                    "type": "node",
+                    "ref": 2905104534,
+                    "role": "stop_entry_only"
+                },
+                {
+                    "type": "node",
+                    "ref": 2905104533,
+                    "role": "platform_entry_only"
+                },
+                {
+                    "type": "node",
+                    "ref": 2905104535,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 974091307,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2889523061,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 974091499,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5140064592,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 974091288,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5140064591,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 974091355,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2494555631,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 1896375681,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2494555634,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2042462383,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2494555637,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2078906757,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2494555639,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 1658007202,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2330869330,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2042462377,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2281243445,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2281243446,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2319381302,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2319381297,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2327643400,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2327643395,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2327643407,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2042462386,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 644100,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 9447843432,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2327643422,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 6130070532,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 4851329621,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 17348329,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 3894200304,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 6303039610,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 10271249529,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 6296272094,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5150429491,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 5150429492,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5150429490,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 1507750610,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5150429489,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 4853845974,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 2721076779,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 5979563872,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5150429487,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2042462339,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 4920961490,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 4318054062,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 4839206603,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 2042462327,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5142458115,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 701533581,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5150429484,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 589386016,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5142458114,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 589397552,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5142458112,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 5142458113,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5142458111,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 6468338135,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5142458110,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 1577467553,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 4944697098,
+                    "role": "stop"
+                },
+                {
+                    "type": "node",
+                    "ref": 1577467573,
+                    "role": "platform"
+                },
+                {
+                    "type": "node",
+                    "ref": 5142458109,
+                    "role": "stop_exit_only"
+                },
+                {
+                    "type": "node",
+                    "ref": 4747349722,
+                    "role": "platform_exit_only"
+                },
+                {
+                    "type": "way",
+                    "ref": 286832215,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 241877822,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 517156278,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24678014,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24606807,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 867336860,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 1126474520,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 1126474519,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 597916567,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 52587170,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 514809279,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24037753,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24014764,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24014782,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 156620488,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24037789,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 577311511,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 197510656,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 224883159,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 34675270,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 670689932,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 34675236,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 4039245,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 870906307,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 156620491,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24662329,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 49605510,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 19519795,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 196866279,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 239596804,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 938727007,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24614597,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 10661371,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 845790437,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 654160910,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 3498992,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 4039523,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 654160913,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 421718450,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 686570444,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 687388759,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 4039430,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 845793685,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 845793684,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 20336544,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 673062632,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 694164003,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 673062635,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 752299032,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 156620490,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 19435006,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24868186,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24868187,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 22690248,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 949039246,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24044048,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 1121533824,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 31979916,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 156992561,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 8059209,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 156617864,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 37190923,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 32424482,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 1093090364,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 45765306,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 336795940,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 976918308,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 53798368,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 976918309,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 53798373,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 31093549,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 31093494,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 53649849,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 24043512,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 10816261,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 360133451,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 210609568,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 679307953,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 109400103,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 120997889,
+                    "role": ""
+                },
+                {
+                    "type": "way",
+                    "ref": 15411244,
+                    "role": ""
+                }
+            ],
+            "tags": {
+                "colour": "#EE1B29",
+                "from": "Porte de Montmartre",
+                "name": "Bus 60 : Porte de Montmartre \u2192 Gambetta - Japon",
+                "network": "RATP",
+                "network:wikidata": "Q474674",
+                "network:wikipedia": "fr:R\u00e9seau de bus RATP",
+                "operator": "RATP",
+                "operator:wikidata": "Q643290",
+                "operator:wikipedia": "fr:R\u00e9gie autonome des transports parisiens",
+                "public_transport:version": "2",
+                "ref": "60",
+                "ref:FR:RATP": "1001000600001",
+                "ref:FR:STIF:direction_id": "1",
+                "route": "bus",
+                "to": "Gambetta - Japon",
+                "type": "route",
+                "wheelchair": "yes"
+            }
+        },
+        {
+            "type": "node",
+            "id": 134518697,
+            "lat": 48.8650048,
+            "lon": 2.3985668
+        },
+        {
+            "type": "node",
+            "id": 6281321068,
+            "lat": 48.8649816,
+            "lon": 2.3986149
+        },
+        {
+            "type": "node",
+            "id": 94131395,
+            "lat": 48.8659046,
+            "lon": 2.3993401
+        },
+        {
+            "type": "node",
+            "id": 94131398,
+            "lat": 48.8665401,
+            "lon": 2.3998839
+        },
+        {
+            "type": "node",
+            "id": 134518691,
+            "lat": 48.8648816,
+            "lon": 2.3986597
+        },
+        {
+            "type": "node",
+            "id": 134521843,
+            "lat": 48.8648371,
+            "lon": 2.4001483
+        },
+        {
+            "type": "node",
+            "id": 152749117,
+            "lat": 48.8662352,
+            "lon": 2.3996224
+        },
+        {
+            "type": "node",
+            "id": 567373586,
+            "lat": 48.8654039,
+            "lon": 2.3989039
+        },
+        {
+            "type": "node",
+            "id": 1577467549,
+            "lat": 48.8666047,
+            "lon": 2.3999353
+        },
+        {
+            "type": "node",
+            "id": 1577467552,
+            "lat": 48.8664322,
+            "lon": 2.3997914
+        },
+        {
+            "type": "node",
+            "id": 1757367124,
+            "lat": 48.8652816,
+            "lon": 2.3988098
+        },
+        {
+            "type": "node",
+            "id": 2002549675,
+            "lat": 48.8648434,
+            "lon": 2.3998573
+        },
+        {
+            "type": "node",
+            "id": 2206936611,
+            "lat": 48.8648741,
+            "lon": 2.3991123
+        },
+        {
+            "type": "node",
+            "id": 2206936613,
+            "lat": 48.8649044,
+            "lon": 2.4001503
+        },
+        {
+            "type": "node",
+            "id": 2206936619,
+            "lat": 48.8658204,
+            "lon": 2.3994091
+        },
+        {
+            "type": "node",
+            "id": 2207102106,
+            "lat": 48.8656376,
+            "lon": 2.3992568
+        },
+        {
+            "type": "node",
+            "id": 2207102149,
+            "lat": 48.8648722,
+            "lon": 2.3991527
+        },
+        {
+            "type": "node",
+            "id": 2207102228,
+            "lat": 48.8654946,
+            "lon": 2.3989828
+        },
+        {
+            "type": "node",
+            "id": 2207102320,
+            "lat": 48.8661479,
+            "lon": 2.3995475
+        },
+        {
+            "type": "node",
+            "id": 2400234183,
+            "lat": 48.8659816,
+            "lon": 2.3994069
+        },
+        {
+            "type": "node",
+            "id": 4747349722,
+            "lat": 48.8654389,
+            "lon": 2.399652
+        },
+        {
+            "type": "node",
+            "id": 4944697097,
+            "lat": 48.8657248,
+            "lon": 2.3991831
+        },
+        {
+            "type": "node",
+            "id": 5142458109,
+            "lat": 48.8654569,
+            "lon": 2.3997066
+        },
+        {
+            "type": "node",
+            "id": 5183044619,
+            "lat": 48.8649811,
+            "lon": 2.4000975
+        },
+        {
+            "type": "node",
+            "id": 6199034898,
+            "lat": 48.8652569,
+            "lon": 2.3987897
+        },
+        {
+            "type": "node",
+            "id": 6281321066,
+            "lat": 48.8649107,
+            "lon": 2.3986623
+        },
+        {
+            "type": "node",
+            "id": 6281321067,
+            "lat": 48.8649489,
+            "lon": 2.3986481
+        },
+        {
+            "type": "node",
+            "id": 6282240953,
+            "lat": 48.8652278,
+            "lon": 2.399898
+        },
+        {
+            "type": "node",
+            "id": 6419409778,
+            "lat": 48.864849,
+            "lon": 2.3996823
+        },
+        {
+            "type": "node",
+            "id": 7078599838,
+            "lat": 48.8648854,
+            "lon": 2.398882
+        },
+        {
+            "type": "node",
+            "id": 7078599842,
+            "lat": 48.8651297,
+            "lon": 2.3986863
+        },
+        {
+            "type": "node",
+            "id": 9970049476,
+            "lat": 48.8651965,
+            "lon": 2.3987406
+        },
+        {
+            "type": "node",
+            "id": 9970049490,
+            "lat": 48.8648789,
+            "lon": 2.3990141
+        },
+        {
+            "type": "node",
+            "id": 96153935,
+            "lat": 48.8718194,
+            "lon": 2.3983451
+        },
+        {
+            "type": "node",
+            "id": 1577467570,
+            "lat": 48.8729885,
+            "lon": 2.3979647
+        },
+        {
+            "type": "node",
+            "id": 1577467661,
+            "lat": 48.8724662,
+            "lon": 2.3979155
+        },
+        {
+            "type": "node",
+            "id": 3647346693,
+            "lat": 48.8723571,
+            "lon": 2.3979152
+        },
+        {
+            "type": "node",
+            "id": 3647346694,
+            "lat": 48.872437,
+            "lon": 2.3979147
+        },
+        {
+            "type": "node",
+            "id": 3647346728,
+            "lat": 48.8723274,
+            "lon": 2.3979205
+        },
+        {
+            "type": "node",
+            "id": 3647346754,
+            "lat": 48.87229,
+            "lon": 2.3979357
+        },
+        {
+            "type": "node",
+            "id": 5142458111,
+            "lat": 48.8726066,
+            "lon": 2.3979132
+        },
+        {
+            "type": "node",
+            "id": 5154910030,
+            "lat": 48.8729868,
+            "lon": 2.3979024
+        },
+        {
+            "type": "node",
+            "id": 6468338135,
+            "lat": 48.8725913,
+            "lon": 2.3978166
+        },
+        {
+            "type": "node",
+            "id": 8198686476,
+            "lat": 48.8717295,
+            "lon": 2.3984216
+        },
+        {
+            "type": "node",
+            "id": 94121972,
+            "lat": 48.8795794,
+            "lon": 2.3895058
+        },
+        {
+            "type": "node",
+            "id": 203316630,
+            "lat": 48.8791403,
+            "lon": 2.3899853
+        },
+        {
+            "type": "node",
+            "id": 346628504,
+            "lat": 48.8791042,
+            "lon": 2.3900248
+        },
+        {
+            "type": "node",
+            "id": 679133658,
+            "lat": 48.878295,
+            "lon": 2.3909472
+        },
+        {
+            "type": "node",
+            "id": 701533581,
+            "lat": 48.8792548,
+            "lon": 2.389757
+        },
+        {
+            "type": "node",
+            "id": 1277048045,
+            "lat": 48.8773999,
+            "lon": 2.3920003
+        },
+        {
+            "type": "node",
+            "id": 2675727098,
+            "lat": 48.8785134,
+            "lon": 2.3907031
+        },
+        {
+            "type": "node",
+            "id": 2958494953,
+            "lat": 48.8793564,
+            "lon": 2.389845
+        },
+        {
+            "type": "node",
+            "id": 3156359276,
+            "lat": 48.8778744,
+            "lon": 2.3914266
+        },
+        {
+            "type": "node",
+            "id": 5142458115,
+            "lat": 48.8793225,
+            "lon": 2.3897864
+        },
+        {
+            "type": "node",
+            "id": 5633622862,
+            "lat": 48.8796651,
+            "lon": 2.3894017
+        },
+        {
+            "type": "node",
+            "id": 6210751798,
+            "lat": 48.8794936,
+            "lon": 2.3895996
+        },
+        {
+            "type": "node",
+            "id": 6401904880,
+            "lat": 48.8781637,
+            "lon": 2.3911048
+        },
+        {
+            "type": "node",
+            "id": 8198952578,
+            "lat": 48.8782463,
+            "lon": 2.3910057
+        },
+        {
+            "type": "node",
+            "id": 9544609645,
+            "lat": 48.8791886,
+            "lon": 2.3899326
+        },
+        {
+            "type": "node",
+            "id": 9544609648,
+            "lat": 48.8794747,
+            "lon": 2.3896202
+        },
+        {
+            "type": "node",
+            "id": 9888409384,
+            "lat": 48.8780927,
+            "lon": 2.3911838
+        },
+        {
+            "type": "node",
+            "id": 9888409388,
+            "lat": 48.8774528,
+            "lon": 2.3919364
+        },
+        {
+            "type": "node",
+            "id": 9895478907,
+            "lat": 48.877368,
+            "lon": 2.3920504
+        },
+        {
+            "type": "node",
+            "id": 9895711980,
+            "lat": 48.8776235,
+            "lon": 2.39173
+        },
+        {
+            "type": "node",
+            "id": 94124996,
+            "lat": 48.8768589,
+            "lon": 2.3925714
+        },
+        {
+            "type": "node",
+            "id": 96115612,
+            "lat": 48.8754535,
+            "lon": 2.3979279
+        },
+        {
+            "type": "node",
+            "id": 96115614,
+            "lat": 48.8752544,
+            "lon": 2.3953549
+        },
+        {
+            "type": "node",
+            "id": 96136327,
+            "lat": 48.8766093,
+            "lon": 2.3925107
+        },
+        {
+            "type": "node",
+            "id": 96136601,
+            "lat": 48.8763604,
+            "lon": 2.3930959
+        },
+        {
+            "type": "node",
+            "id": 96136602,
+            "lat": 48.8760969,
+            "lon": 2.3937753
+        },
+        {
+            "type": "node",
+            "id": 96136603,
+            "lat": 48.8760527,
+            "lon": 2.3944571
+        },
+        {
+            "type": "node",
+            "id": 96136605,
+            "lat": 48.8763328,
+            "lon": 2.3952945
+        },
+        {
+            "type": "node",
+            "id": 96136606,
+            "lat": 48.8767219,
+            "lon": 2.3955403
+        },
+        {
+            "type": "node",
+            "id": 96136608,
+            "lat": 48.8775991,
+            "lon": 2.3951122
+        },
+        {
+            "type": "node",
+            "id": 96136609,
+            "lat": 48.8775088,
+            "lon": 2.3938077
+        },
+        {
+            "type": "node",
+            "id": 96136610,
+            "lat": 48.8773173,
+            "lon": 2.3927473
+        },
+        {
+            "type": "node",
+            "id": 96136750,
+            "lat": 48.8758903,
+            "lon": 2.3948978
+        },
+        {
+            "type": "node",
+            "id": 280723152,
+            "lat": 48.8741509,
+            "lon": 2.3979089
+        },
+        {
+            "type": "node",
+            "id": 416529147,
+            "lat": 48.8776652,
+            "lon": 2.3956058
+        },
+        {
+            "type": "node",
+            "id": 429286899,
+            "lat": 48.8752727,
+            "lon": 2.3956871
+        },
+        {
+            "type": "node",
+            "id": 567377361,
+            "lat": 48.8764969,
+            "lon": 2.3954787
+        },
+        {
+            "type": "node",
+            "id": 567379822,
+            "lat": 48.8775621,
+            "lon": 2.3956053
+        },
+        {
+            "type": "node",
+            "id": 589365381,
+            "lat": 48.8775749,
+            "lon": 2.3941614
+        },
+        {
+            "type": "node",
+            "id": 589386016,
+            "lat": 48.8769107,
+            "lon": 2.3925209
+        },
+        {
+            "type": "node",
+            "id": 589397548,
+            "lat": 48.8758906,
+            "lon": 2.3949846
+        },
+        {
+            "type": "node",
+            "id": 589397552,
+            "lat": 48.87558,
+            "lon": 2.3949365
+        },
+        {
+            "type": "node",
+            "id": 679133656,
+            "lat": 48.8775599,
+            "lon": 2.3945609
+        },
+        {
+            "type": "node",
+            "id": 724314039,
+            "lat": 48.8761075,
+            "lon": 2.3947835
+        },
+        {
+            "type": "node",
+            "id": 724314156,
+            "lat": 48.8775174,
+            "lon": 2.3939219
+        },
+        {
+            "type": "node",
+            "id": 1577984874,
+            "lat": 48.8752492,
+            "lon": 2.3952367
+        },
+        {
+            "type": "node",
+            "id": 1990726621,
+            "lat": 48.8742978,
+            "lon": 2.3979112
+        },
+        {
+            "type": "node",
+            "id": 2053114648,
+            "lat": 48.877619,
+            "lon": 2.3953555
+        },
+        {
+            "type": "node",
+            "id": 2140279526,
+            "lat": 48.8774917,
+            "lon": 2.3936766
+        },
+        {
+            "type": "node",
+            "id": 2365580970,
+            "lat": 48.8754482,
+            "lon": 2.3951111
+        },
+        {
+            "type": "node",
+            "id": 2365580974,
+            "lat": 48.8760545,
+            "lon": 2.3940905
+        },
+        {
+            "type": "node",
+            "id": 2365580977,
+            "lat": 48.8773491,
+            "lon": 2.39285
+        },
+        {
+            "type": "node",
+            "id": 2365580978,
+            "lat": 48.8761746,
+            "lon": 2.3934746
+        },
+        {
+            "type": "node",
+            "id": 2365580991,
+            "lat": 48.8763096,
+            "lon": 2.3931864
+        },
+        {
+            "type": "node",
+            "id": 2365580992,
+            "lat": 48.8768138,
+            "lon": 2.3925612
+        },
+        {
+            "type": "node",
+            "id": 2365580996,
+            "lat": 48.8764063,
+            "lon": 2.3930023
+        },
+        {
+            "type": "node",
+            "id": 2365581007,
+            "lat": 48.877175,
+            "lon": 2.3926746
+        },
+        {
+            "type": "node",
+            "id": 2365581008,
+            "lat": 48.8752601,
+            "lon": 2.3954753
+        },
+        {
+            "type": "node",
+            "id": 2575826044,
+            "lat": 48.8742594,
+            "lon": 2.3979103
+        },
+        {
+            "type": "node",
+            "id": 2875110253,
+            "lat": 48.8754129,
+            "lon": 2.3972574
+        },
+        {
+            "type": "node",
+            "id": 2878817136,
+            "lat": 48.8752712,
+            "lon": 2.3956599
+        },
+        {
+            "type": "node",
+            "id": 3001176149,
+            "lat": 48.8771982,
+            "lon": 2.392503
+        },
+        {
+            "type": "node",
+            "id": 3528321694,
+            "lat": 48.87527,
+            "lon": 2.3956376
+        },
+        {
+            "type": "node",
+            "id": 3647346769,
+            "lat": 48.8753565,
+            "lon": 2.3979204
+        },
+        {
+            "type": "node",
+            "id": 3709186000,
+            "lat": 48.876077,
+            "lon": 2.3938827
+        },
+        {
+            "type": "node",
+            "id": 3834589123,
+            "lat": 48.8756716,
+            "lon": 2.3949986
+        },
+        {
+            "type": "node",
+            "id": 3834589859,
+            "lat": 48.8765922,
+            "lon": 2.3955184
+        },
+        {
+            "type": "node",
+            "id": 3897180430,
+            "lat": 48.8775483,
+            "lon": 2.39438
+        },
+        {
+            "type": "node",
+            "id": 5063883388,
+            "lat": 48.8769221,
+            "lon": 2.3925922
+        },
+        {
+            "type": "node",
+            "id": 5063883389,
+            "lat": 48.877292,
+            "lon": 2.3921696
+        },
+        {
+            "type": "node",
+            "id": 5142458112,
+            "lat": 48.87493,
+            "lon": 2.3979057
+        },
+        {
+            "type": "node",
+            "id": 5142458113,
+            "lat": 48.87493,
+            "lon": 2.3978466
+        },
+        {
+            "type": "node",
+            "id": 5142458114,
+            "lat": 48.8756166,
+            "lon": 2.3950259
+        },
+        {
+            "type": "node",
+            "id": 5150429484,
+            "lat": 48.8769037,
+            "lon": 2.3925861
+        },
+        {
+            "type": "node",
+            "id": 5150429485,
+            "lat": 48.8771331,
+            "lon": 2.3926617
+        },
+        {
+            "type": "node",
+            "id": 5150429486,
+            "lat": 48.8772312,
+            "lon": 2.3922595
+        },
+        {
+            "type": "node",
+            "id": 5154910028,
+            "lat": 48.8775357,
+            "lon": 2.3941709
+        },
+        {
+            "type": "node",
+            "id": 5154910029,
+            "lat": 48.8755072,
+            "lon": 2.3983744
+        },
+        {
+            "type": "node",
+            "id": 5518213304,
+            "lat": 48.8762283,
+            "lon": 2.3951402
+        },
+        {
+            "type": "node",
+            "id": 5528878603,
+            "lat": 48.8736311,
+            "lon": 2.3978969
+        },
+        {
+            "type": "node",
+            "id": 6210791951,
+            "lat": 48.876084,
+            "lon": 2.3946814
+        },
+        {
+            "type": "node",
+            "id": 6229062602,
+            "lat": 48.8764074,
+            "lon": 2.3953836
+        },
+        {
+            "type": "node",
+            "id": 6261924599,
+            "lat": 48.8775274,
+            "lon": 2.3956022
+        },
+        {
+            "type": "node",
+            "id": 6261924600,
+            "lat": 48.8775211,
+            "lon": 2.3939765
+        },
+        {
+            "type": "node",
+            "id": 6310578568,
+            "lat": 48.8754477,
+            "lon": 2.3977781
+        },
+        {
+            "type": "node",
+            "id": 7117392137,
+            "lat": 48.8775017,
+            "lon": 2.3937415
+        },
+        {
+            "type": "node",
+            "id": 7137599348,
+            "lat": 48.8775806,
+            "lon": 2.3948524
+        },
+        {
+            "type": "node",
+            "id": 9040210603,
+            "lat": 48.877337,
+            "lon": 2.3927933
+        },
+        {
+            "type": "node",
+            "id": 9526522773,
+            "lat": 48.8775319,
+            "lon": 2.3941135
+        },
+        {
+            "type": "node",
+            "id": 9526522779,
+            "lat": 48.8775741,
+            "lon": 2.3947612
+        },
+        {
+            "type": "node",
+            "id": 9544563851,
+            "lat": 48.8753834,
+            "lon": 2.3968854
+        },
+        {
+            "type": "node",
+            "id": 9695571336,
+            "lat": 48.8776335,
+            "lon": 2.3954514
+        },
+        {
+            "type": "node",
+            "id": 10008318449,
+            "lat": 48.8766904,
+            "lon": 2.3925386
+        },
+        {
+            "type": "node",
+            "id": 10200622440,
+            "lat": 48.8760501,
+            "lon": 2.3943396
+        },
+        {
+            "type": "node",
+            "id": 10200622441,
+            "lat": 48.8760484,
+            "lon": 2.3942289
+        },
+        {
+            "type": "node",
+            "id": 10200622442,
+            "lat": 48.8761891,
+            "lon": 2.3950517
+        },
+        {
+            "type": "node",
+            "id": 10200622443,
+            "lat": 48.876126,
+            "lon": 2.3948606
+        },
+        {
+            "type": "node",
+            "id": 10213842917,
+            "lat": 48.8759849,
+            "lon": 2.3948474
+        },
+        {
+            "type": "node",
+            "id": 10213842918,
+            "lat": 48.8760259,
+            "lon": 2.3948245
+        },
+        {
+            "type": "node",
+            "id": 10249720479,
+            "lat": 48.8761394,
+            "lon": 2.3936107
+        },
+        {
+            "type": "node",
+            "id": 10647243310,
+            "lat": 48.8739733,
+            "lon": 2.3979048
+        },
+        {
+            "type": "node",
+            "id": 94131399,
+            "lat": 48.8674718,
+            "lon": 2.4007254
+        },
+        {
+            "type": "node",
+            "id": 94131400,
+            "lat": 48.8683061,
+            "lon": 2.4014206
+        },
+        {
+            "type": "node",
+            "id": 96136841,
+            "lat": 48.8707805,
+            "lon": 2.3992295
+        },
+        {
+            "type": "node",
+            "id": 96136842,
+            "lat": 48.8693224,
+            "lon": 2.4004764
+        },
+        {
+            "type": "node",
+            "id": 203330264,
+            "lat": 48.8691304,
+            "lon": 2.4006567
+        },
+        {
+            "type": "node",
+            "id": 264796495,
+            "lat": 48.8679137,
+            "lon": 2.4010965
+        },
+        {
+            "type": "node",
+            "id": 1577467553,
+            "lat": 48.8705641,
+            "lon": 2.39928
+        },
+        {
+            "type": "node",
+            "id": 1577467573,
+            "lat": 48.8680313,
+            "lon": 2.4011123
+        },
+        {
+            "type": "node",
+            "id": 1577467588,
+            "lat": 48.8689014,
+            "lon": 2.4009778
+        },
+        {
+            "type": "node",
+            "id": 1577467608,
+            "lat": 48.871217,
+            "lon": 2.3989347
+        },
+        {
+            "type": "node",
+            "id": 2204791472,
+            "lat": 48.8671649,
+            "lon": 2.4004498
+        },
+        {
+            "type": "node",
+            "id": 2206863656,
+            "lat": 48.870701,
+            "lon": 2.3992975
+        },
+        {
+            "type": "node",
+            "id": 2206863680,
+            "lat": 48.8708815,
+            "lon": 2.3991435
+        },
+        {
+            "type": "node",
+            "id": 4944697098,
+            "lat": 48.8680063,
+            "lon": 2.4011737
+        },
+        {
+            "type": "node",
+            "id": 5142458110,
+            "lat": 48.870599,
+            "lon": 2.3993847
+        },
+        {
+            "type": "node",
+            "id": 5154910031,
+            "lat": 48.8712004,
+            "lon": 2.398872
+        },
+        {
+            "type": "node",
+            "id": 5154910032,
+            "lat": 48.868883,
+            "lon": 2.400886
+        },
+        {
+            "type": "node",
+            "id": 7072055122,
+            "lat": 48.8699082,
+            "lon": 2.3999754
+        },
+        {
+            "type": "node",
+            "id": 7072068521,
+            "lat": 48.8692401,
+            "lon": 2.4005537
+        },
+        {
+            "type": "node",
+            "id": 7592846396,
+            "lat": 48.8682184,
+            "lon": 2.4013483
+        },
+        {
+            "type": "node",
+            "id": 8093151340,
+            "lat": 48.8681941,
+            "lon": 2.4013276
+        },
+        {
+            "type": "node",
+            "id": 9758488511,
+            "lat": 48.8677021,
+            "lon": 2.4009075
+        },
+        {
+            "type": "node",
+            "id": 2905104533,
+            "lat": 48.9002932,
+            "lon": 2.332475
+        },
+        {
+            "type": "node",
+            "id": 2905104534,
+            "lat": 48.900359,
+            "lon": 2.3325321
+        },
+        {
+            "type": "node",
+            "id": 24910422,
+            "lat": 48.89261,
+            "lon": 2.3437906
+        },
+        {
+            "type": "node",
+            "id": 24910551,
+            "lat": 48.8922109,
+            "lon": 2.346119
+        },
+        {
+            "type": "node",
+            "id": 24910559,
+            "lat": 48.892853,
+            "lon": 2.3419492
+        },
+        {
+            "type": "node",
+            "id": 24910560,
+            "lat": 48.8927636,
+            "lon": 2.3425914
+        },
+        {
+            "type": "node",
+            "id": 24910564,
+            "lat": 48.8926688,
+            "lon": 2.3432864
+        },
+        {
+            "type": "node",
+            "id": 24910791,
+            "lat": 48.893093,
+            "lon": 2.3402145
+        },
+        {
+            "type": "node",
+            "id": 2042462383,
+            "lat": 48.8929178,
+            "lon": 2.3410633
+        },
+        {
+            "type": "node",
+            "id": 2078906757,
+            "lat": 48.8922647,
+            "lon": 2.345409
+        },
+        {
+            "type": "node",
+            "id": 2078906761,
+            "lat": 48.8926591,
+            "lon": 2.3439454
+        },
+        {
+            "type": "node",
+            "id": 2494555634,
+            "lat": 48.8929732,
+            "lon": 2.341076
+        },
+        {
+            "type": "node",
+            "id": 2494555637,
+            "lat": 48.8923199,
+            "lon": 2.3454304
+        },
+        {
+            "type": "node",
+            "id": 2494555646,
+            "lat": 48.8930132,
+            "lon": 2.3407857
+        },
+        {
+            "type": "node",
+            "id": 2905112354,
+            "lat": 48.892528,
+            "lon": 2.3443033
+        },
+        {
+            "type": "node",
+            "id": 2905112359,
+            "lat": 48.8925486,
+            "lon": 2.3441999
+        },
+        {
+            "type": "node",
+            "id": 2905112361,
+            "lat": 48.8926182,
+            "lon": 2.3437229
+        },
+        {
+            "type": "node",
+            "id": 3080638050,
+            "lat": 48.8922233,
+            "lon": 2.3460497
+        },
+        {
+            "type": "node",
+            "id": 3522596182,
+            "lat": 48.8923998,
+            "lon": 2.3449977
+        },
+        {
+            "type": "node",
+            "id": 3522596183,
+            "lat": 48.8925058,
+            "lon": 2.3444233
+        },
+        {
+            "type": "node",
+            "id": 4114527226,
+            "lat": 48.8928953,
+            "lon": 2.3416419
+        },
+        {
+            "type": "node",
+            "id": 4923266315,
+            "lat": 48.8924827,
+            "lon": 2.3445487
+        },
+        {
+            "type": "node",
+            "id": 6147937950,
+            "lat": 48.8931051,
+            "lon": 2.3401252
+        },
+        {
+            "type": "node",
+            "id": 6147968390,
+            "lat": 48.8930816,
+            "lon": 2.3402958
+        },
+        {
+            "type": "node",
+            "id": 6147985174,
+            "lat": 48.8928405,
+            "lon": 2.3420398
+        },
+        {
+            "type": "node",
+            "id": 6147988926,
+            "lat": 48.8928663,
+            "lon": 2.3418528
+        },
+        {
+            "type": "node",
+            "id": 6148058550,
+            "lat": 48.8927773,
+            "lon": 2.3424931
+        },
+        {
+            "type": "node",
+            "id": 6149960476,
+            "lat": 48.8926836,
+            "lon": 2.3431779
+        },
+        {
+            "type": "node",
+            "id": 6149975118,
+            "lat": 48.8924219,
+            "lon": 2.3448779
+        },
+        {
+            "type": "node",
+            "id": 6149992896,
+            "lat": 48.8923837,
+            "lon": 2.3450848
+        },
+        {
+            "type": "node",
+            "id": 24910591,
+            "lat": 48.8920476,
+            "lon": 2.3469515
+        },
+        {
+            "type": "node",
+            "id": 54775311,
+            "lat": 48.8915753,
+            "lon": 2.3496042
+        },
+        {
+            "type": "node",
+            "id": 56529965,
+            "lat": 48.8917098,
+            "lon": 2.3487345
+        },
+        {
+            "type": "node",
+            "id": 94239970,
+            "lat": 48.8911838,
+            "lon": 2.3516153
+        },
+        {
+            "type": "node",
+            "id": 655295780,
+            "lat": 48.892163,
+            "lon": 2.3463413
+        },
+        {
+            "type": "node",
+            "id": 1658007202,
+            "lat": 48.8913695,
+            "lon": 2.350257
+        },
+        {
+            "type": "node",
+            "id": 1871796077,
+            "lat": 48.8917359,
+            "lon": 2.3486016
+        },
+        {
+            "type": "node",
+            "id": 2494555639,
+            "lat": 48.8914487,
+            "lon": 2.3502585
+        },
+        {
+            "type": "node",
+            "id": 2494555640,
+            "lat": 48.8914951,
+            "lon": 2.3502715
+        },
+        {
+            "type": "node",
+            "id": 3080638048,
+            "lat": 48.892192,
+            "lon": 2.346211
+        },
+        {
+            "type": "node",
+            "id": 6114126189,
+            "lat": 48.8915255,
+            "lon": 2.3498616
+        },
+        {
+            "type": "node",
+            "id": 6114126192,
+            "lat": 48.8912011,
+            "lon": 2.3515377
+        },
+        {
+            "type": "node",
+            "id": 6114126193,
+            "lat": 48.8911573,
+            "lon": 2.3517331
+        },
+        {
+            "type": "node",
+            "id": 6149999579,
+            "lat": 48.8920187,
+            "lon": 2.3471037
+        },
+        {
+            "type": "node",
+            "id": 6150012085,
+            "lat": 48.8916957,
+            "lon": 2.3488256
+        },
+        {
+            "type": "node",
+            "id": 6150017636,
+            "lat": 48.8916102,
+            "lon": 2.3493314
+        },
+        {
+            "type": "node",
+            "id": 94250376,
+            "lat": 48.890409,
+            "lon": 2.3558139
+        },
+        {
+            "type": "node",
+            "id": 94250560,
+            "lat": 48.8906493,
+            "lon": 2.3545335
+        },
+        {
+            "type": "node",
+            "id": 94251346,
+            "lat": 48.8908898,
+            "lon": 2.3532204
+        },
+        {
+            "type": "node",
+            "id": 202813138,
+            "lat": 48.8902896,
+            "lon": 2.3583083
+        },
+        {
+            "type": "node",
+            "id": 403462400,
+            "lat": 48.8903077,
+            "lon": 2.3578774
+        },
+        {
+            "type": "node",
+            "id": 403462425,
+            "lat": 48.8903525,
+            "lon": 2.3563153
+        },
+        {
+            "type": "node",
+            "id": 1871817954,
+            "lat": 48.8902946,
+            "lon": 2.3581668
+        },
+        {
+            "type": "node",
+            "id": 1871818030,
+            "lat": 48.8906725,
+            "lon": 2.3544095
+        },
+        {
+            "type": "node",
+            "id": 1871818095,
+            "lat": 48.8905342,
+            "lon": 2.3551522
+        },
+        {
+            "type": "node",
+            "id": 1871818127,
+            "lat": 48.8903898,
+            "lon": 2.3559814
+        },
+        {
+            "type": "node",
+            "id": 2042462377,
+            "lat": 48.8905179,
+            "lon": 2.3549233
+        },
+        {
+            "type": "node",
+            "id": 2042462378,
+            "lat": 48.8906424,
+            "lon": 2.3549067
+        },
+        {
+            "type": "node",
+            "id": 2281243444,
+            "lat": 48.8903375,
+            "lon": 2.3590926
+        },
+        {
+            "type": "node",
+            "id": 2317308531,
+            "lat": 48.8902772,
+            "lon": 2.3590882
+        },
+        {
+            "type": "node",
+            "id": 2330869330,
+            "lat": 48.8905597,
+            "lon": 2.3550173
+        },
+        {
+            "type": "node",
+            "id": 3688311109,
+            "lat": 48.8909087,
+            "lon": 2.3531089
+        },
+        {
+            "type": "node",
+            "id": 4561625760,
+            "lat": 48.8902872,
+            "lon": 2.3584597
+        },
+        {
+            "type": "node",
+            "id": 5964808679,
+            "lat": 48.8905408,
+            "lon": 2.3551177
+        },
+        {
+            "type": "node",
+            "id": 6150085498,
+            "lat": 48.8905042,
+            "lon": 2.3552933
+        },
+        {
+            "type": "node",
+            "id": 6400116391,
+            "lat": 48.8903555,
+            "lon": 2.3562764
+        },
+        {
+            "type": "node",
+            "id": 644123,
+            "lat": 48.8953189,
+            "lon": 2.3375759
+        },
+        {
+            "type": "node",
+            "id": 24910800,
+            "lat": 48.8933586,
+            "lon": 2.3382671
+        },
+        {
+            "type": "node",
+            "id": 24910805,
+            "lat": 48.8936311,
+            "lon": 2.3363575
+        },
+        {
+            "type": "node",
+            "id": 24911952,
+            "lat": 48.8969316,
+            "lon": 2.338261
+        },
+        {
+            "type": "node",
+            "id": 24911953,
+            "lat": 48.8966705,
+            "lon": 2.3384573
+        },
+        {
+            "type": "node",
+            "id": 178884499,
+            "lat": 48.8967675,
+            "lon": 2.3384095
+        },
+        {
+            "type": "node",
+            "id": 268233911,
+            "lat": 48.8972278,
+            "lon": 2.3379938
+        },
+        {
+            "type": "node",
+            "id": 268234194,
+            "lat": 48.8989761,
+            "lon": 2.336402
+        },
+        {
+            "type": "node",
+            "id": 268234231,
+            "lat": 48.8984585,
+            "lon": 2.3368722
+        },
+        {
+            "type": "node",
+            "id": 451120738,
+            "lat": 48.8934881,
+            "lon": 2.3373376
+        },
+        {
+            "type": "node",
+            "id": 974091288,
+            "lat": 48.8962803,
+            "lon": 2.3381398
+        },
+        {
+            "type": "node",
+            "id": 974091292,
+            "lat": 48.8957201,
+            "lon": 2.3379375
+        },
+        {
+            "type": "node",
+            "id": 974091305,
+            "lat": 48.8983007,
+            "lon": 2.337119
+        },
+        {
+            "type": "node",
+            "id": 974091307,
+            "lat": 48.8993083,
+            "lon": 2.3360266
+        },
+        {
+            "type": "node",
+            "id": 974091319,
+            "lat": 48.8969551,
+            "lon": 2.3383695
+        },
+        {
+            "type": "node",
+            "id": 974091335,
+            "lat": 48.8939304,
+            "lon": 2.3366547
+        },
+        {
+            "type": "node",
+            "id": 974091355,
+            "lat": 48.8949691,
+            "lon": 2.3372298
+        },
+        {
+            "type": "node",
+            "id": 974091499,
+            "lat": 48.8980766,
+            "lon": 2.3371132
+        },
+        {
+            "type": "node",
+            "id": 1343567346,
+            "lat": 48.8992915,
+            "lon": 2.3361891
+        },
+        {
+            "type": "node",
+            "id": 1343567797,
+            "lat": 48.8991517,
+            "lon": 2.3362678
+        },
+        {
+            "type": "node",
+            "id": 1761398336,
+            "lat": 48.8977962,
+            "lon": 2.3374523
+        },
+        {
+            "type": "node",
+            "id": 1896375681,
+            "lat": 48.8934301,
+            "lon": 2.3373685
+        },
+        {
+            "type": "node",
+            "id": 2270376011,
+            "lat": 48.8979976,
+            "lon": 2.3372838
+        },
+        {
+            "type": "node",
+            "id": 2494555631,
+            "lat": 48.8934817,
+            "lon": 2.337384
+        },
+        {
+            "type": "node",
+            "id": 2494555632,
+            "lat": 48.8935578,
+            "lon": 2.3368312
+        },
+        {
+            "type": "node",
+            "id": 2494555633,
+            "lat": 48.893994,
+            "lon": 2.3366219
+        },
+        {
+            "type": "node",
+            "id": 2889523061,
+            "lat": 48.8980777,
+            "lon": 2.3372115
+        },
+        {
+            "type": "node",
+            "id": 2905104532,
+            "lat": 48.8982979,
+            "lon": 2.337017
+        },
+        {
+            "type": "node",
+            "id": 2905104535,
+            "lat": 48.8993993,
+            "lon": 2.3361388
+        },
+        {
+            "type": "node",
+            "id": 2905104536,
+            "lat": 48.8994357,
+            "lon": 2.3362588
+        },
+        {
+            "type": "node",
+            "id": 2905104537,
+            "lat": 48.8988228,
+            "lon": 2.3365498
+        },
+        {
+            "type": "node",
+            "id": 3036682208,
+            "lat": 48.8942079,
+            "lon": 2.3367752
+        },
+        {
+            "type": "node",
+            "id": 3036682216,
+            "lat": 48.8959117,
+            "lon": 2.3379947
+        },
+        {
+            "type": "node",
+            "id": 3036682219,
+            "lat": 48.8961113,
+            "lon": 2.3381183
+        },
+        {
+            "type": "node",
+            "id": 3036682226,
+            "lat": 48.8965768,
+            "lon": 2.3384292
+        },
+        {
+            "type": "node",
+            "id": 3036682232,
+            "lat": 48.8969962,
+            "lon": 2.3382092
+        },
+        {
+            "type": "node",
+            "id": 3406965270,
+            "lat": 48.8979788,
+            "lon": 2.3373017
+        },
+        {
+            "type": "node",
+            "id": 3406965276,
+            "lat": 48.8976465,
+            "lon": 2.3375813
+        },
+        {
+            "type": "node",
+            "id": 3423762974,
+            "lat": 48.8936084,
+            "lon": 2.3364867
+        },
+        {
+            "type": "node",
+            "id": 3423762976,
+            "lat": 48.8937059,
+            "lon": 2.3364036
+        },
+        {
+            "type": "node",
+            "id": 3423762983,
+            "lat": 48.8952131,
+            "lon": 2.3374996
+        },
+        {
+            "type": "node",
+            "id": 3423762986,
+            "lat": 48.895415,
+            "lon": 2.3376438
+        },
+        {
+            "type": "node",
+            "id": 3423763805,
+            "lat": 48.8972041,
+            "lon": 2.3380159
+        },
+        {
+            "type": "node",
+            "id": 4742879704,
+            "lat": 48.8977378,
+            "lon": 2.3375072
+        },
+        {
+            "type": "node",
+            "id": 4964977862,
+            "lat": 48.8978898,
+            "lon": 2.3373736
+        },
+        {
+            "type": "node",
+            "id": 5140064591,
+            "lat": 48.8949019,
+            "lon": 2.3372839
+        },
+        {
+            "type": "node",
+            "id": 5140064592,
+            "lat": 48.8962573,
+            "lon": 2.3382165
+        },
+        {
+            "type": "node",
+            "id": 5155923703,
+            "lat": 48.8969587,
+            "lon": 2.3382392
+        },
+        {
+            "type": "node",
+            "id": 5155923704,
+            "lat": 48.8957394,
+            "lon": 2.337873
+        },
+        {
+            "type": "node",
+            "id": 5691709622,
+            "lat": 48.8978285,
+            "lon": 2.3374244
+        },
+        {
+            "type": "node",
+            "id": 6110475821,
+            "lat": 48.8935284,
+            "lon": 2.3370451
+        },
+        {
+            "type": "node",
+            "id": 6110475822,
+            "lat": 48.8933902,
+            "lon": 2.3380484
+        },
+        {
+            "type": "node",
+            "id": 6110475825,
+            "lat": 48.8933464,
+            "lon": 2.3383663
+        },
+        {
+            "type": "node",
+            "id": 6924605637,
+            "lat": 48.8990482,
+            "lon": 2.3363335
+        },
+        {
+            "type": "node",
+            "id": 8371891035,
+            "lat": 48.8990244,
+            "lon": 2.3363509
+        },
+        {
+            "type": "node",
+            "id": 2042462384,
+            "lat": 48.8932282,
+            "lon": 2.3397473
+        },
+        {
+            "type": "node",
+            "id": 2494555635,
+            "lat": 48.8931609,
+            "lon": 2.3397133
+        },
+        {
+            "type": "node",
+            "id": 268234010,
+            "lat": 48.9003803,
+            "lon": 2.3335827
+        },
+        {
+            "type": "node",
+            "id": 268234011,
+            "lat": 48.900478,
+            "lon": 2.334691
+        },
+        {
+            "type": "node",
+            "id": 268234012,
+            "lat": 48.9004829,
+            "lon": 2.3351102
+        },
+        {
+            "type": "node",
+            "id": 320153255,
+            "lat": 48.9004882,
+            "lon": 2.3354861
+        },
+        {
+            "type": "node",
+            "id": 2270376009,
+            "lat": 48.9004846,
+            "lon": 2.3352286
+        },
+        {
+            "type": "node",
+            "id": 2494555642,
+            "lat": 48.9004645,
+            "lon": 2.3344648
+        },
+        {
+            "type": "node",
+            "id": 2494555643,
+            "lat": 48.90048,
+            "lon": 2.3349024
+        },
+        {
+            "type": "node",
+            "id": 2494555644,
+            "lat": 48.9005241,
+            "lon": 2.3349504
+        },
+        {
+            "type": "node",
+            "id": 5574576562,
+            "lat": 48.9003569,
+            "lon": 2.3355648
+        },
+        {
+            "type": "node",
+            "id": 6197561108,
+            "lat": 48.9002215,
+            "lon": 2.335646
+        },
+        {
+            "type": "node",
+            "id": 6360644993,
+            "lat": 48.9004859,
+            "lon": 2.3353237
+        },
+        {
+            "type": "node",
+            "id": 7006246652,
+            "lat": 48.9004852,
+            "lon": 2.3352694
+        },
+        {
+            "type": "node",
+            "id": 7006250363,
+            "lat": 48.9004225,
+            "lon": 2.3355255
+        },
+        {
+            "type": "node",
+            "id": 8146131220,
+            "lat": 48.9004795,
+            "lon": 2.3348552
+        },
+        {
+            "type": "node",
+            "id": 644113,
+            "lat": 48.8972601,
+            "lon": 2.3591307
+        },
+        {
+            "type": "node",
+            "id": 135578017,
+            "lat": 48.8986953,
+            "lon": 2.3590108
+        },
+        {
+            "type": "node",
+            "id": 135578024,
+            "lat": 48.8985244,
+            "lon": 2.3590203
+        },
+        {
+            "type": "node",
+            "id": 1088594665,
+            "lat": 48.898382,
+            "lon": 2.3590282
+        },
+        {
+            "type": "node",
+            "id": 1762073410,
+            "lat": 48.8971056,
+            "lon": 2.3591416
+        },
+        {
+            "type": "node",
+            "id": 2078486565,
+            "lat": 48.8983329,
+            "lon": 2.3590309
+        },
+        {
+            "type": "node",
+            "id": 2282886340,
+            "lat": 48.8984121,
+            "lon": 2.3590265
+        },
+        {
+            "type": "node",
+            "id": 2328721228,
+            "lat": 48.8956566,
+            "lon": 2.359124
+        },
+        {
+            "type": "node",
+            "id": 2329839716,
+            "lat": 48.8979626,
+            "lon": 2.3589508
+        },
+        {
+            "type": "node",
+            "id": 2330013045,
+            "lat": 48.8975992,
+            "lon": 2.3590381
+        },
+        {
+            "type": "node",
+            "id": 2526480451,
+            "lat": 48.8959974,
+            "lon": 2.359289
+        },
+        {
+            "type": "node",
+            "id": 2526480496,
+            "lat": 48.8964368,
+            "lon": 2.3592547
+        },
+        {
+            "type": "node",
+            "id": 2537082843,
+            "lat": 48.8982916,
+            "lon": 2.3590332
+        },
+        {
+            "type": "node",
+            "id": 3843153427,
+            "lat": 48.8984652,
+            "lon": 2.3590236
+        },
+        {
+            "type": "node",
+            "id": 5009766322,
+            "lat": 48.8974128,
+            "lon": 2.3590533
+        },
+        {
+            "type": "node",
+            "id": 5009766323,
+            "lat": 48.8977637,
+            "lon": 2.3590229
+        },
+        {
+            "type": "node",
+            "id": 5009766325,
+            "lat": 48.8982468,
+            "lon": 2.3589867
+        },
+        {
+            "type": "node",
+            "id": 5009766326,
+            "lat": 48.8982592,
+            "lon": 2.359035
+        },
+        {
+            "type": "node",
+            "id": 5009766327,
+            "lat": 48.8983166,
+            "lon": 2.3590318
+        },
+        {
+            "type": "node",
+            "id": 5240597743,
+            "lat": 48.8970251,
+            "lon": 2.3591473
+        },
+        {
+            "type": "node",
+            "id": 5240597744,
+            "lat": 48.8966122,
+            "lon": 2.3592362
+        },
+        {
+            "type": "node",
+            "id": 5240597746,
+            "lat": 48.8972877,
+            "lon": 2.3591288
+        },
+        {
+            "type": "node",
+            "id": 5240597747,
+            "lat": 48.8973265,
+            "lon": 2.3590577
+        },
+        {
+            "type": "node",
+            "id": 5265461921,
+            "lat": 48.8979352,
+            "lon": 2.3590088
+        },
+        {
+            "type": "node",
+            "id": 6659097297,
+            "lat": 48.8978539,
+            "lon": 2.3590155
+        },
+        {
+            "type": "node",
+            "id": 6885941587,
+            "lat": 48.8972259,
+            "lon": 2.3591331
+        },
+        {
+            "type": "node",
+            "id": 7069713693,
+            "lat": 48.8962795,
+            "lon": 2.359267
+        },
+        {
+            "type": "node",
+            "id": 8092452043,
+            "lat": 48.8949774,
+            "lon": 2.3592911
+        },
+        {
+            "type": "node",
+            "id": 644092,
+            "lat": 48.8902351,
+            "lon": 2.3599793
+        },
+        {
+            "type": "node",
+            "id": 202809822,
+            "lat": 48.8921105,
+            "lon": 2.3618263
+        },
+        {
+            "type": "node",
+            "id": 202810321,
+            "lat": 48.8915657,
+            "lon": 2.361244
+        },
+        {
+            "type": "node",
+            "id": 202810546,
+            "lat": 48.8908319,
+            "lon": 2.3599552
+        },
+        {
+            "type": "node",
+            "id": 202810665,
+            "lat": 48.8912856,
+            "lon": 2.3612686
+        },
+        {
+            "type": "node",
+            "id": 219253509,
+            "lat": 48.8931082,
+            "lon": 2.3635608
+        },
+        {
+            "type": "node",
+            "id": 219253510,
+            "lat": 48.8931098,
+            "lon": 2.3634618
+        },
+        {
+            "type": "node",
+            "id": 219253511,
+            "lat": 48.8931287,
+            "lon": 2.3634243
+        },
+        {
+            "type": "node",
+            "id": 243648866,
+            "lat": 48.8931294,
+            "lon": 2.3636044
+        },
+        {
+            "type": "node",
+            "id": 243648870,
+            "lat": 48.893102,
+            "lon": 2.3635074
+        },
+        {
+            "type": "node",
+            "id": 1668388632,
+            "lat": 48.8907488,
+            "lon": 2.3599608
+        },
+        {
+            "type": "node",
+            "id": 1668388764,
+            "lat": 48.8903864,
+            "lon": 2.3599843
+        },
+        {
+            "type": "node",
+            "id": 1668388880,
+            "lat": 48.8902674,
+            "lon": 2.3597107
+        },
+        {
+            "type": "node",
+            "id": 1668389114,
+            "lat": 48.8908728,
+            "lon": 2.3600832
+        },
+        {
+            "type": "node",
+            "id": 2281243445,
+            "lat": 48.8906372,
+            "lon": 2.3599682
+        },
+        {
+            "type": "node",
+            "id": 2281243446,
+            "lat": 48.8906554,
+            "lon": 2.3600336
+        },
+        {
+            "type": "node",
+            "id": 2319381288,
+            "lat": 48.8914231,
+            "lon": 2.3612517
+        },
+        {
+            "type": "node",
+            "id": 2319381297,
+            "lat": 48.8917023,
+            "lon": 2.3614601
+        },
+        {
+            "type": "node",
+            "id": 2319381302,
+            "lat": 48.891729,
+            "lon": 2.3613913
+        },
+        {
+            "type": "node",
+            "id": 2327643386,
+            "lat": 48.8929158,
+            "lon": 2.3630901
+        },
+        {
+            "type": "node",
+            "id": 2328721244,
+            "lat": 48.8928017,
+            "lon": 2.3595846
+        },
+        {
+            "type": "node",
+            "id": 2526932763,
+            "lat": 48.8930498,
+            "lon": 2.3633005
+        },
+        {
+            "type": "node",
+            "id": 6317867530,
+            "lat": 48.8919343,
+            "lon": 2.3615717
+        },
+        {
+            "type": "node",
+            "id": 7115407913,
+            "lat": 48.8913475,
+            "lon": 2.3612525
+        },
+        {
+            "type": "node",
+            "id": 7115407914,
+            "lat": 48.8912412,
+            "lon": 2.3612078
+        },
+        {
+            "type": "node",
+            "id": 7187512892,
+            "lat": 48.8921525,
+            "lon": 2.3618923
+        },
+        {
+            "type": "node",
+            "id": 7187512897,
+            "lat": 48.8920436,
+            "lon": 2.3617297
+        },
+        {
+            "type": "node",
+            "id": 7187512898,
+            "lat": 48.8919506,
+            "lon": 2.3615952
+        },
+        {
+            "type": "node",
+            "id": 8092452037,
+            "lat": 48.8902658,
+            "lon": 2.3598114
+        },
+        {
+            "type": "node",
+            "id": 8092452038,
+            "lat": 48.8910327,
+            "lon": 2.3597972
+        },
+        {
+            "type": "node",
+            "id": 8092452039,
+            "lat": 48.8920075,
+            "lon": 2.3597525
+        },
+        {
+            "type": "node",
+            "id": 8092452040,
+            "lat": 48.8927014,
+            "lon": 2.3596532
+        },
+        {
+            "type": "node",
+            "id": 8092452052,
+            "lat": 48.8902648,
+            "lon": 2.3598719
+        },
+        {
+            "type": "node",
+            "id": 8112651378,
+            "lat": 48.8915264,
+            "lon": 2.3597746
+        },
+        {
+            "type": "node",
+            "id": 8112651381,
+            "lat": 48.89079,
+            "lon": 2.3598017
+        },
+        {
+            "type": "node",
+            "id": 8165345402,
+            "lat": 48.8907431,
+            "lon": 2.3598026
+        },
+        {
+            "type": "node",
+            "id": 8165345403,
+            "lat": 48.8903943,
+            "lon": 2.359809
+        },
+        {
+            "type": "node",
+            "id": 8168471368,
+            "lat": 48.8902683,
+            "lon": 2.359656
+        },
+        {
+            "type": "node",
+            "id": 8168471369,
+            "lat": 48.8904142,
+            "lon": 2.3598086
+        },
+        {
+            "type": "node",
+            "id": 8168471370,
+            "lat": 48.8911107,
+            "lon": 2.3597937
+        },
+        {
+            "type": "node",
+            "id": 8168471373,
+            "lat": 48.8908866,
+            "lon": 2.3601275
+        },
+        {
+            "type": "node",
+            "id": 8168471374,
+            "lat": 48.890718,
+            "lon": 2.3599623
+        },
+        {
+            "type": "node",
+            "id": 8168471375,
+            "lat": 48.8908555,
+            "lon": 2.3598005
+        },
+        {
+            "type": "node",
+            "id": 8338746570,
+            "lat": 48.8921233,
+            "lon": 2.3597359
+        },
+        {
+            "type": "node",
+            "id": 8697441570,
+            "lat": 48.8927722,
+            "lon": 2.3596372
+        },
+        {
+            "type": "node",
+            "id": 8730403283,
+            "lat": 48.8911271,
+            "lon": 2.3609414
+        },
+        {
+            "type": "node",
+            "id": 26503665,
+            "lat": 48.8859234,
+            "lon": 2.38222
+        },
+        {
+            "type": "node",
+            "id": 26551740,
+            "lat": 48.8846821,
+            "lon": 2.3798078
+        },
+        {
+            "type": "node",
+            "id": 94114892,
+            "lat": 48.8848612,
+            "lon": 2.3796458
+        },
+        {
+            "type": "node",
+            "id": 94125868,
+            "lat": 48.882481,
+            "lon": 2.382638
+        },
+        {
+            "type": "node",
+            "id": 94126804,
+            "lat": 48.8829008,
+            "lon": 2.3845044
+        },
+        {
+            "type": "node",
+            "id": 94191164,
+            "lat": 48.8825305,
+            "lon": 2.3817129
+        },
+        {
+            "type": "node",
+            "id": 94191592,
+            "lat": 48.882249,
+            "lon": 2.3819455
+        },
+        {
+            "type": "node",
+            "id": 94191744,
+            "lat": 48.8832435,
+            "lon": 2.3810931
+        },
+        {
+            "type": "node",
+            "id": 243482872,
+            "lat": 48.8829658,
+            "lon": 2.3852612
+        },
+        {
+            "type": "node",
+            "id": 321830099,
+            "lat": 48.8827509,
+            "lon": 2.3836376
+        },
+        {
+            "type": "node",
+            "id": 2042462338,
+            "lat": 48.884471,
+            "lon": 2.3800566
+        },
+        {
+            "type": "node",
+            "id": 2042462339,
+            "lat": 48.8844697,
+            "lon": 2.3798733
+        },
+        {
+            "type": "node",
+            "id": 2499815510,
+            "lat": 48.8823277,
+            "lon": 2.3821613
+        },
+        {
+            "type": "node",
+            "id": 2499815526,
+            "lat": 48.882666,
+            "lon": 2.3815951
+        },
+        {
+            "type": "node",
+            "id": 2499815540,
+            "lat": 48.883282,
+            "lon": 2.3810584
+        },
+        {
+            "type": "node",
+            "id": 2499815563,
+            "lat": 48.8846186,
+            "lon": 2.3798691
+        },
+        {
+            "type": "node",
+            "id": 2499815581,
+            "lat": 48.8849101,
+            "lon": 2.3795957
+        },
+        {
+            "type": "node",
+            "id": 2499815629,
+            "lat": 48.8850795,
+            "lon": 2.3794414
+        },
+        {
+            "type": "node",
+            "id": 2721076779,
+            "lat": 48.885837,
+            "lon": 2.3818823
+        },
+        {
+            "type": "node",
+            "id": 4020513522,
+            "lat": 48.8865247,
+            "lon": 2.3844619
+        },
+        {
+            "type": "node",
+            "id": 4318054062,
+            "lat": 48.8824027,
+            "lon": 2.3826739
+        },
+        {
+            "type": "node",
+            "id": 4920961472,
+            "lat": 48.8823641,
+            "lon": 2.3822691
+        },
+        {
+            "type": "node",
+            "id": 4920961473,
+            "lat": 48.882463,
+            "lon": 2.382212
+        },
+        {
+            "type": "node",
+            "id": 4920961490,
+            "lat": 48.8824634,
+            "lon": 2.3825801
+        },
+        {
+            "type": "node",
+            "id": 5005450406,
+            "lat": 48.8852327,
+            "lon": 2.3795617
+        },
+        {
+            "type": "node",
+            "id": 5005450415,
+            "lat": 48.8861341,
+            "lon": 2.3829792
+        },
+        {
+            "type": "node",
+            "id": 5150429487,
+            "lat": 48.8845414,
+            "lon": 2.3799335
+        },
+        {
+            "type": "node",
+            "id": 5154968802,
+            "lat": 48.8860114,
+            "lon": 2.382515
+        },
+        {
+            "type": "node",
+            "id": 5154968803,
+            "lat": 48.8844561,
+            "lon": 2.3799992
+        },
+        {
+            "type": "node",
+            "id": 5495986275,
+            "lat": 48.8856184,
+            "lon": 2.3810336
+        },
+        {
+            "type": "node",
+            "id": 5633622851,
+            "lat": 48.8825387,
+            "lon": 2.3828413
+        },
+        {
+            "type": "node",
+            "id": 5633622853,
+            "lat": 48.8828334,
+            "lon": 2.3840721
+        },
+        {
+            "type": "node",
+            "id": 5979563871,
+            "lat": 48.8859831,
+            "lon": 2.3825829
+        },
+        {
+            "type": "node",
+            "id": 5979563872,
+            "lat": 48.8858597,
+            "lon": 2.3818431
+        },
+        {
+            "type": "node",
+            "id": 6071759103,
+            "lat": 48.8829751,
+            "lon": 2.3853522
+        },
+        {
+            "type": "node",
+            "id": 6200971609,
+            "lat": 48.882385,
+            "lon": 2.3818331
+        },
+        {
+            "type": "node",
+            "id": 6205562280,
+            "lat": 48.885877,
+            "lon": 2.3820517
+        },
+        {
+            "type": "node",
+            "id": 6205562281,
+            "lat": 48.8859731,
+            "lon": 2.3823603
+        },
+        {
+            "type": "node",
+            "id": 6356775995,
+            "lat": 48.8861916,
+            "lon": 2.3832069
+        },
+        {
+            "type": "node",
+            "id": 9025564382,
+            "lat": 48.8825989,
+            "lon": 2.38306
+        },
+        {
+            "type": "node",
+            "id": 9025612115,
+            "lat": 48.8826764,
+            "lon": 2.3833197
+        },
+        {
+            "type": "node",
+            "id": 9403474283,
+            "lat": 48.8851852,
+            "lon": 2.3793589
+        },
+        {
+            "type": "node",
+            "id": 9403501631,
+            "lat": 48.8822884,
+            "lon": 2.3820535
+        },
+        {
+            "type": "node",
+            "id": 9403501664,
+            "lat": 48.8824189,
+            "lon": 2.3818051
+        },
+        {
+            "type": "node",
+            "id": 10223626783,
+            "lat": 48.8851563,
+            "lon": 2.3793775
+        },
+        {
+            "type": "node",
+            "id": 10259124007,
+            "lat": 48.8865399,
+            "lon": 2.3845176
+        },
+        {
+            "type": "node",
+            "id": 10259147209,
+            "lat": 48.8865915,
+            "lon": 2.3847051
+        },
+        {
+            "type": "node",
+            "id": 201646773,
+            "lat": 48.8924272,
+            "lon": 2.3788995
+        },
+        {
+            "type": "node",
+            "id": 1831214157,
+            "lat": 48.8926287,
+            "lon": 2.3785058
+        },
+        {
+            "type": "node",
+            "id": 4328377270,
+            "lat": 48.8928717,
+            "lon": 2.3781811
+        },
+        {
+            "type": "node",
+            "id": 5154968800,
+            "lat": 48.8928324,
+            "lon": 2.3780968
+        },
+        {
+            "type": "node",
+            "id": 5694829928,
+            "lat": 48.8924806,
+            "lon": 2.3787955
+        },
+        {
+            "type": "node",
+            "id": 6970129939,
+            "lat": 48.892403,
+            "lon": 2.3789449
+        },
+        {
+            "type": "node",
+            "id": 202116726,
+            "lat": 48.890644,
+            "lon": 2.3822275
+        },
+        {
+            "type": "node",
+            "id": 202117023,
+            "lat": 48.8893598,
+            "lon": 2.3836975
+        },
+        {
+            "type": "node",
+            "id": 243352115,
+            "lat": 48.8882844,
+            "lon": 2.3843007
+        },
+        {
+            "type": "node",
+            "id": 243352407,
+            "lat": 48.8879071,
+            "lon": 2.3844898
+        },
+        {
+            "type": "node",
+            "id": 246286552,
+            "lat": 48.892308,
+            "lon": 2.3791234
+        },
+        {
+            "type": "node",
+            "id": 270234514,
+            "lat": 48.89031,
+            "lon": 2.3826089
+        },
+        {
+            "type": "node",
+            "id": 270234515,
+            "lat": 48.8898447,
+            "lon": 2.3831374
+        },
+        {
+            "type": "node",
+            "id": 884214087,
+            "lat": 48.8930757,
+            "lon": 2.3797297
+        },
+        {
+            "type": "node",
+            "id": 884214090,
+            "lat": 48.8925478,
+            "lon": 2.3790575
+        },
+        {
+            "type": "node",
+            "id": 884255838,
+            "lat": 48.8907147,
+            "lon": 2.3821432
+        },
+        {
+            "type": "node",
+            "id": 884257892,
+            "lat": 48.8892832,
+            "lon": 2.3837564
+        },
+        {
+            "type": "node",
+            "id": 884257911,
+            "lat": 48.8894688,
+            "lon": 2.3835716
+        },
+        {
+            "type": "node",
+            "id": 884259409,
+            "lat": 48.8905699,
+            "lon": 2.3823075
+        },
+        {
+            "type": "node",
+            "id": 1507750607,
+            "lat": 48.8897362,
+            "lon": 2.383347
+        },
+        {
+            "type": "node",
+            "id": 1507750610,
+            "lat": 48.8907639,
+            "lon": 2.3819888
+        },
+        {
+            "type": "node",
+            "id": 4294770466,
+            "lat": 48.8873627,
+            "lon": 2.3847233
+        },
+        {
+            "type": "node",
+            "id": 4853845974,
+            "lat": 48.887301,
+            "lon": 2.384583
+        },
+        {
+            "type": "node",
+            "id": 5083255397,
+            "lat": 48.8867214,
+            "lon": 2.3847822
+        },
+        {
+            "type": "node",
+            "id": 5150429489,
+            "lat": 48.8873088,
+            "lon": 2.3846493
+        },
+        {
+            "type": "node",
+            "id": 5150429490,
+            "lat": 48.8907871,
+            "lon": 2.3820212
+        },
+        {
+            "type": "node",
+            "id": 5150429491,
+            "lat": 48.8920931,
+            "lon": 2.379563
+        },
+        {
+            "type": "node",
+            "id": 5150429492,
+            "lat": 48.8920648,
+            "lon": 2.3795325
+        },
+        {
+            "type": "node",
+            "id": 5154968801,
+            "lat": 48.8897274,
+            "lon": 2.3832729
+        },
+        {
+            "type": "node",
+            "id": 5694829927,
+            "lat": 48.8922681,
+            "lon": 2.37923
+        },
+        {
+            "type": "node",
+            "id": 6463644636,
+            "lat": 48.8873412,
+            "lon": 2.384642
+        },
+        {
+            "type": "node",
+            "id": 6709451268,
+            "lat": 48.8881969,
+            "lon": 2.3843445
+        },
+        {
+            "type": "node",
+            "id": 7089850743,
+            "lat": 48.8872775,
+            "lon": 2.3846563
+        },
+        {
+            "type": "node",
+            "id": 7089850748,
+            "lat": 48.8880875,
+            "lon": 2.3844013
+        },
+        {
+            "type": "node",
+            "id": 7240935587,
+            "lat": 48.8923365,
+            "lon": 2.3790698
+        },
+        {
+            "type": "node",
+            "id": 8174727605,
+            "lat": 48.8929976,
+            "lon": 2.3796315
+        },
+        {
+            "type": "node",
+            "id": 8175115320,
+            "lat": 48.893134,
+            "lon": 2.3798049
+        },
+        {
+            "type": "node",
+            "id": 9560738128,
+            "lat": 48.8873924,
+            "lon": 2.3846282
+        },
+        {
+            "type": "node",
+            "id": 10205035025,
+            "lat": 48.8871984,
+            "lon": 2.3846742
+        },
+        {
+            "type": "node",
+            "id": 10259124008,
+            "lat": 48.8866197,
+            "lon": 2.3848173
+        },
+        {
+            "type": "node",
+            "id": 135612245,
+            "lat": 48.8985877,
+            "lon": 2.3629046
+        },
+        {
+            "type": "node",
+            "id": 135612262,
+            "lat": 48.8986994,
+            "lon": 2.3593623
+        },
+        {
+            "type": "node",
+            "id": 202806412,
+            "lat": 48.8953075,
+            "lon": 2.359343
+        },
+        {
+            "type": "node",
+            "id": 209148462,
+            "lat": 48.8986184,
+            "lon": 2.3643165
+        },
+        {
+            "type": "node",
+            "id": 219253506,
+            "lat": 48.8932092,
+            "lon": 2.3636243
+        },
+        {
+            "type": "node",
+            "id": 219253507,
+            "lat": 48.8931537,
+            "lon": 2.3636259
+        },
+        {
+            "type": "node",
+            "id": 243648867,
+            "lat": 48.89325,
+            "lon": 2.3635673
+        },
+        {
+            "type": "node",
+            "id": 243648869,
+            "lat": 48.8931815,
+            "lon": 2.3636328
+        },
+        {
+            "type": "node",
+            "id": 331434319,
+            "lat": 48.893683,
+            "lon": 2.3645228
+        },
+        {
+            "type": "node",
+            "id": 412699470,
+            "lat": 48.8986414,
+            "lon": 2.3656145
+        },
+        {
+            "type": "node",
+            "id": 1459636260,
+            "lat": 48.8986501,
+            "lon": 2.361216
+        },
+        {
+            "type": "node",
+            "id": 1668388870,
+            "lat": 48.895619,
+            "lon": 2.3593207
+        },
+        {
+            "type": "node",
+            "id": 1762073431,
+            "lat": 48.8987038,
+            "lon": 2.3596382
+        },
+        {
+            "type": "node",
+            "id": 1770654160,
+            "lat": 48.8987182,
+            "lon": 2.3604739
+        },
+        {
+            "type": "node",
+            "id": 2078486285,
+            "lat": 48.8986147,
+            "lon": 2.364145
+        },
+        {
+            "type": "node",
+            "id": 2160034007,
+            "lat": 48.8955245,
+            "lon": 2.3593294
+        },
+        {
+            "type": "node",
+            "id": 2160034030,
+            "lat": 48.8951,
+            "lon": 2.3593487
+        },
+        {
+            "type": "node",
+            "id": 2327643395,
+            "lat": 48.8934228,
+            "lon": 2.3640253
+        },
+        {
+            "type": "node",
+            "id": 2327643400,
+            "lat": 48.8934501,
+            "lon": 2.363995
+        },
+        {
+            "type": "node",
+            "id": 2327643404,
+            "lat": 48.8942118,
+            "lon": 2.3657163
+        },
+        {
+            "type": "node",
+            "id": 2327643410,
+            "lat": 48.893233,
+            "lon": 2.3636015
+        },
+        {
+            "type": "node",
+            "id": 2328721237,
+            "lat": 48.8956617,
+            "lon": 2.3593163
+        },
+        {
+            "type": "node",
+            "id": 2330013077,
+            "lat": 48.8987057,
+            "lon": 2.3597219
+        },
+        {
+            "type": "node",
+            "id": 2526932792,
+            "lat": 48.8933194,
+            "lon": 2.3636955
+        },
+        {
+            "type": "node",
+            "id": 2536915872,
+            "lat": 48.8958327,
+            "lon": 2.3593034
+        },
+        {
+            "type": "node",
+            "id": 2537082852,
+            "lat": 48.898702,
+            "lon": 2.359531
+        },
+        {
+            "type": "node",
+            "id": 2829387406,
+            "lat": 48.8986135,
+            "lon": 2.364086
+        },
+        {
+            "type": "node",
+            "id": 2846648058,
+            "lat": 48.8933092,
+            "lon": 2.363673
+        },
+        {
+            "type": "node",
+            "id": 2846648059,
+            "lat": 48.8933308,
+            "lon": 2.3637191
+        },
+        {
+            "type": "node",
+            "id": 3195556423,
+            "lat": 48.8986081,
+            "lon": 2.3638292
+        },
+        {
+            "type": "node",
+            "id": 5585996052,
+            "lat": 48.8987026,
+            "lon": 2.3595898
+        },
+        {
+            "type": "node",
+            "id": 6313784201,
+            "lat": 48.8986202,
+            "lon": 2.3644105
+        },
+        {
+            "type": "node",
+            "id": 6313784209,
+            "lat": 48.8986218,
+            "lon": 2.3645273
+        },
+        {
+            "type": "node",
+            "id": 6313810990,
+            "lat": 48.8986319,
+            "lon": 2.3650619
+        },
+        {
+            "type": "node",
+            "id": 7875361700,
+            "lat": 48.8986254,
+            "lon": 2.3626618
+        },
+        {
+            "type": "node",
+            "id": 7875361701,
+            "lat": 48.8986216,
+            "lon": 2.3623849
+        },
+        {
+            "type": "node",
+            "id": 7875361702,
+            "lat": 48.8986154,
+            "lon": 2.3619812
+        },
+        {
+            "type": "node",
+            "id": 7875361703,
+            "lat": 48.8986249,
+            "lon": 2.3616077
+        },
+        {
+            "type": "node",
+            "id": 7875361706,
+            "lat": 48.8986245,
+            "lon": 2.3625988
+        },
+        {
+            "type": "node",
+            "id": 8092452041,
+            "lat": 48.8933068,
+            "lon": 2.3595473
+        },
+        {
+            "type": "node",
+            "id": 8092452042,
+            "lat": 48.8937362,
+            "lon": 2.3594823
+        },
+        {
+            "type": "node",
+            "id": 8092452044,
+            "lat": 48.8950425,
+            "lon": 2.3593526
+        },
+        {
+            "type": "node",
+            "id": 8112651365,
+            "lat": 48.8941192,
+            "lon": 2.3594233
+        },
+        {
+            "type": "node",
+            "id": 8112651368,
+            "lat": 48.8936057,
+            "lon": 2.3595021
+        },
+        {
+            "type": "node",
+            "id": 8112651379,
+            "lat": 48.8949054,
+            "lon": 2.3593022
+        },
+        {
+            "type": "node",
+            "id": 8338746568,
+            "lat": 48.8943069,
+            "lon": 2.3593944
+        },
+        {
+            "type": "node",
+            "id": 8338746569,
+            "lat": 48.8940712,
+            "lon": 2.3594307
+        },
+        {
+            "type": "node",
+            "id": 8697441571,
+            "lat": 48.8986273,
+            "lon": 2.3648299
+        },
+        {
+            "type": "node",
+            "id": 442371,
+            "lat": 48.8987244,
+            "lon": 2.3711722
+        },
+        {
+            "type": "node",
+            "id": 644100,
+            "lat": 48.8952424,
+            "lon": 2.3694867
+        },
+        {
+            "type": "node",
+            "id": 644102,
+            "lat": 48.8958144,
+            "lon": 2.3713598
+        },
+        {
+            "type": "node",
+            "id": 130054229,
+            "lat": 48.8987858,
+            "lon": 2.3709597
+        },
+        {
+            "type": "node",
+            "id": 201646527,
+            "lat": 48.8952791,
+            "lon": 2.3719452
+        },
+        {
+            "type": "node",
+            "id": 202807056,
+            "lat": 48.8943249,
+            "lon": 2.365979
+        },
+        {
+            "type": "node",
+            "id": 202807668,
+            "lat": 48.8944255,
+            "lon": 2.3662486
+        },
+        {
+            "type": "node",
+            "id": 331419425,
+            "lat": 48.8953149,
+            "lon": 2.3721035
+        },
+        {
+            "type": "node",
+            "id": 331432688,
+            "lat": 48.8944903,
+            "lon": 2.3664764
+        },
+        {
+            "type": "node",
+            "id": 472126505,
+            "lat": 48.8987753,
+            "lon": 2.3704923
+        },
+        {
+            "type": "node",
+            "id": 672221668,
+            "lat": 48.8986568,
+            "lon": 2.3665541
+        },
+        {
+            "type": "node",
+            "id": 672221671,
+            "lat": 48.8986969,
+            "lon": 2.3683735
+        },
+        {
+            "type": "node",
+            "id": 1245546489,
+            "lat": 48.8986465,
+            "lon": 2.3710233
+        },
+        {
+            "type": "node",
+            "id": 1254371671,
+            "lat": 48.8948546,
+            "lon": 2.3679335
+        },
+        {
+            "type": "node",
+            "id": 1886061102,
+            "lat": 48.898724,
+            "lon": 2.3703361
+        },
+        {
+            "type": "node",
+            "id": 2042462386,
+            "lat": 48.8943375,
+            "lon": 2.3661626
+        },
+        {
+            "type": "node",
+            "id": 2078486283,
+            "lat": 48.898659,
+            "lon": 2.366707
+        },
+        {
+            "type": "node",
+            "id": 2327643407,
+            "lat": 48.8943825,
+            "lon": 2.3661254
+        },
+        {
+            "type": "node",
+            "id": 2327643412,
+            "lat": 48.8955395,
+            "lon": 2.3706622
+        },
+        {
+            "type": "node",
+            "id": 2327643422,
+            "lat": 48.8951917,
+            "lon": 2.3694836
+        },
+        {
+            "type": "node",
+            "id": 2354781588,
+            "lat": 48.8987212,
+            "lon": 2.3695859
+        },
+        {
+            "type": "node",
+            "id": 2467125815,
+            "lat": 48.8961577,
+            "lon": 2.3710959
+        },
+        {
+            "type": "node",
+            "id": 2467125816,
+            "lat": 48.8963326,
+            "lon": 2.3708741
+        },
+        {
+            "type": "node",
+            "id": 2467125817,
+            "lat": 48.8968779,
+            "lon": 2.3707357
+        },
+        {
+            "type": "node",
+            "id": 2467125818,
+            "lat": 48.8974033,
+            "lon": 2.3710923
+        },
+        {
+            "type": "node",
+            "id": 2467619666,
+            "lat": 48.8950602,
+            "lon": 2.3687527
+        },
+        {
+            "type": "node",
+            "id": 2472523758,
+            "lat": 48.8981472,
+            "lon": 2.371051
+        },
+        {
+            "type": "node",
+            "id": 2472523774,
+            "lat": 48.8967182,
+            "lon": 2.3707478
+        },
+        {
+            "type": "node",
+            "id": 2472523776,
+            "lat": 48.8972074,
+            "lon": 2.3710776
+        },
+        {
+            "type": "node",
+            "id": 2472523778,
+            "lat": 48.8972503,
+            "lon": 2.3710957
+        },
+        {
+            "type": "node",
+            "id": 2472523779,
+            "lat": 48.8976133,
+            "lon": 2.3710807
+        },
+        {
+            "type": "node",
+            "id": 2472523781,
+            "lat": 48.8978643,
+            "lon": 2.3710667
+        },
+        {
+            "type": "node",
+            "id": 2472523787,
+            "lat": 48.8961538,
+            "lon": 2.3712327
+        },
+        {
+            "type": "node",
+            "id": 2527993142,
+            "lat": 48.8951461,
+            "lon": 2.3690951
+        },
+        {
+            "type": "node",
+            "id": 2537097424,
+            "lat": 48.8985558,
+            "lon": 2.3710283
+        },
+        {
+            "type": "node",
+            "id": 2537179638,
+            "lat": 48.8954412,
+            "lon": 2.3702708
+        },
+        {
+            "type": "node",
+            "id": 2721076937,
+            "lat": 48.8958999,
+            "lon": 2.3714957
+        },
+        {
+            "type": "node",
+            "id": 2721076947,
+            "lat": 48.8963968,
+            "lon": 2.3707987
+        },
+        {
+            "type": "node",
+            "id": 2721076948,
+            "lat": 48.896448,
+            "lon": 2.3707673
+        },
+        {
+            "type": "node",
+            "id": 2721076956,
+            "lat": 48.8969401,
+            "lon": 2.3707557
+        },
+        {
+            "type": "node",
+            "id": 2721076961,
+            "lat": 48.8969766,
+            "lon": 2.3707987
+        },
+        {
+            "type": "node",
+            "id": 2721077027,
+            "lat": 48.8977514,
+            "lon": 2.371073
+        },
+        {
+            "type": "node",
+            "id": 2721077084,
+            "lat": 48.8987233,
+            "lon": 2.3701562
+        },
+        {
+            "type": "node",
+            "id": 2829333366,
+            "lat": 48.8976419,
+            "lon": 2.3710791
+        },
+        {
+            "type": "node",
+            "id": 2829333369,
+            "lat": 48.8985181,
+            "lon": 2.3710304
+        },
+        {
+            "type": "node",
+            "id": 2829333374,
+            "lat": 48.8986899,
+            "lon": 2.368113
+        },
+        {
+            "type": "node",
+            "id": 2829333375,
+            "lat": 48.8986988,
+            "lon": 2.368516
+        },
+        {
+            "type": "node",
+            "id": 2829333377,
+            "lat": 48.898723,
+            "lon": 2.3701007
+        },
+        {
+            "type": "node",
+            "id": 2829387408,
+            "lat": 48.8986599,
+            "lon": 2.3667555
+        },
+        {
+            "type": "node",
+            "id": 4685452347,
+            "lat": 48.8984347,
+            "lon": 2.371035
+        },
+        {
+            "type": "node",
+            "id": 5299431107,
+            "lat": 48.8954535,
+            "lon": 2.3718235
+        },
+        {
+            "type": "node",
+            "id": 5318393342,
+            "lat": 48.8956335,
+            "lon": 2.3710698
+        },
+        {
+            "type": "node",
+            "id": 5475302328,
+            "lat": 48.8953462,
+            "lon": 2.372254
+        },
+        {
+            "type": "node",
+            "id": 5535891519,
+            "lat": 48.896801,
+            "lon": 2.3707427
+        },
+        {
+            "type": "node",
+            "id": 5535891520,
+            "lat": 48.8959986,
+            "lon": 2.3713115
+        },
+        {
+            "type": "node",
+            "id": 5535894834,
+            "lat": 48.8954286,
+            "lon": 2.3720478
+        },
+        {
+            "type": "node",
+            "id": 5535894836,
+            "lat": 48.8962251,
+            "lon": 2.3710108
+        },
+        {
+            "type": "node",
+            "id": 5535894841,
+            "lat": 48.8961846,
+            "lon": 2.3710623
+        },
+        {
+            "type": "node",
+            "id": 5922426363,
+            "lat": 48.8979791,
+            "lon": 2.3710604
+        },
+        {
+            "type": "node",
+            "id": 5922426384,
+            "lat": 48.8987236,
+            "lon": 2.3702433
+        },
+        {
+            "type": "node",
+            "id": 5922426585,
+            "lat": 48.8958581,
+            "lon": 2.3715463
+        },
+        {
+            "type": "node",
+            "id": 5922426587,
+            "lat": 48.895776,
+            "lon": 2.3712984
+        },
+        {
+            "type": "node",
+            "id": 5922462383,
+            "lat": 48.8966176,
+            "lon": 2.3707551
+        },
+        {
+            "type": "node",
+            "id": 6447688574,
+            "lat": 48.8957383,
+            "lon": 2.3712379
+        },
+        {
+            "type": "node",
+            "id": 6553496791,
+            "lat": 48.8972254,
+            "lon": 2.3710869
+        },
+        {
+            "type": "node",
+            "id": 6553496792,
+            "lat": 48.8971814,
+            "lon": 2.3710527
+        },
+        {
+            "type": "node",
+            "id": 6830740167,
+            "lat": 48.8953942,
+            "lon": 2.3720759
+        },
+        {
+            "type": "node",
+            "id": 6830740168,
+            "lat": 48.8953428,
+            "lon": 2.3718979
+        },
+        {
+            "type": "node",
+            "id": 6888381048,
+            "lat": 48.8953803,
+            "lon": 2.3718727
+        },
+        {
+            "type": "node",
+            "id": 7244196081,
+            "lat": 48.8945233,
+            "lon": 2.3666085
+        },
+        {
+            "type": "node",
+            "id": 7244268574,
+            "lat": 48.8942857,
+            "lon": 2.365888
+        },
+        {
+            "type": "node",
+            "id": 7890833476,
+            "lat": 48.8958305,
+            "lon": 2.3715785
+        },
+        {
+            "type": "node",
+            "id": 7890833477,
+            "lat": 48.8955114,
+            "lon": 2.3719506
+        },
+        {
+            "type": "node",
+            "id": 9447843430,
+            "lat": 48.8953741,
+            "lon": 2.3718768
+        },
+        {
+            "type": "node",
+            "id": 9447843432,
+            "lat": 48.8955278,
+            "lon": 2.3708736
+        },
+        {
+            "type": "node",
+            "id": 9846663704,
+            "lat": 48.8983923,
+            "lon": 2.3710374
+        },
+        {
+            "type": "node",
+            "id": 10125758487,
+            "lat": 48.894557,
+            "lon": 2.3667431
+        },
+        {
+            "type": "node",
+            "id": 10141424125,
+            "lat": 48.8987228,
+            "lon": 2.3700435
+        },
+        {
+            "type": "node",
+            "id": 17337815,
+            "lat": 48.8961568,
+            "lon": 2.3785321
+        },
+        {
+            "type": "node",
+            "id": 17348329,
+            "lat": 48.89602,
+            "lon": 2.3788526
+        },
+        {
+            "type": "node",
+            "id": 17348330,
+            "lat": 48.8964013,
+            "lon": 2.3775527
+        },
+        {
+            "type": "node",
+            "id": 17348331,
+            "lat": 48.8965244,
+            "lon": 2.3769319
+        },
+        {
+            "type": "node",
+            "id": 17348332,
+            "lat": 48.8965177,
+            "lon": 2.3767763
+        },
+        {
+            "type": "node",
+            "id": 17348337,
+            "lat": 48.8963452,
+            "lon": 2.3758652
+        },
+        {
+            "type": "node",
+            "id": 201646642,
+            "lat": 48.8934931,
+            "lon": 2.3767674
+        },
+        {
+            "type": "node",
+            "id": 599973345,
+            "lat": 48.8942759,
+            "lon": 2.3776586
+        },
+        {
+            "type": "node",
+            "id": 600018699,
+            "lat": 48.8959425,
+            "lon": 2.3739228
+        },
+        {
+            "type": "node",
+            "id": 1721218988,
+            "lat": 48.8934755,
+            "lon": 2.3768015
+        },
+        {
+            "type": "node",
+            "id": 1721218990,
+            "lat": 48.8935625,
+            "lon": 2.3768464
+        },
+        {
+            "type": "node",
+            "id": 1721218991,
+            "lat": 48.8942429,
+            "lon": 2.3776211
+        },
+        {
+            "type": "node",
+            "id": 1721219027,
+            "lat": 48.8963018,
+            "lon": 2.3780298
+        },
+        {
+            "type": "node",
+            "id": 1830489426,
+            "lat": 48.8949278,
+            "lon": 2.3784009
+        },
+        {
+            "type": "node",
+            "id": 3894200304,
+            "lat": 48.8960083,
+            "lon": 2.3787542
+        },
+        {
+            "type": "node",
+            "id": 4214740188,
+            "lat": 48.8952654,
+            "lon": 2.3787852
+        },
+        {
+            "type": "node",
+            "id": 4504727545,
+            "lat": 48.8961285,
+            "lon": 2.3747467
+        },
+        {
+            "type": "node",
+            "id": 4539453718,
+            "lat": 48.8963948,
+            "lon": 2.3761454
+        },
+        {
+            "type": "node",
+            "id": 4851329621,
+            "lat": 48.896148,
+            "lon": 2.3751242
+        },
+        {
+            "type": "node",
+            "id": 4851333521,
+            "lat": 48.895945,
+            "lon": 2.3737232
+        },
+        {
+            "type": "node",
+            "id": 5535891510,
+            "lat": 48.8960031,
+            "lon": 2.3741338
+        },
+        {
+            "type": "node",
+            "id": 6130070518,
+            "lat": 48.8958722,
+            "lon": 2.3737036
+        },
+        {
+            "type": "node",
+            "id": 6130070519,
+            "lat": 48.8962732,
+            "lon": 2.3781364
+        },
+        {
+            "type": "node",
+            "id": 6130070532,
+            "lat": 48.8962067,
+            "lon": 2.3751477
+        },
+        {
+            "type": "node",
+            "id": 6445429431,
+            "lat": 48.8934562,
+            "lon": 2.3768389
+        },
+        {
+            "type": "node",
+            "id": 6445734786,
+            "lat": 48.8962939,
+            "lon": 2.3780593
+        },
+        {
+            "type": "node",
+            "id": 6445736504,
+            "lat": 48.8965007,
+            "lon": 2.3771126
+        },
+        {
+            "type": "node",
+            "id": 6447566285,
+            "lat": 48.8961164,
+            "lon": 2.3746865
+        },
+        {
+            "type": "node",
+            "id": 6835802965,
+            "lat": 48.8933457,
+            "lon": 2.377067
+        },
+        {
+            "type": "node",
+            "id": 6888358753,
+            "lat": 48.8964696,
+            "lon": 2.3765221
+        },
+        {
+            "type": "node",
+            "id": 7247026756,
+            "lat": 48.896205,
+            "lon": 2.3751392
+        },
+        {
+            "type": "node",
+            "id": 7574504788,
+            "lat": 48.8942138,
+            "lon": 2.377588
+        },
+        {
+            "type": "node",
+            "id": 7890882158,
+            "lat": 48.8964976,
+            "lon": 2.37667
+        },
+        {
+            "type": "node",
+            "id": 8175277965,
+            "lat": 48.8964358,
+            "lon": 2.3763517
+        },
+        {
+            "type": "node",
+            "id": 8858087814,
+            "lat": 48.8953346,
+            "lon": 2.3788639
+        },
+        {
+            "type": "node",
+            "id": 9293283555,
+            "lat": 48.8961464,
+            "lon": 2.3787454
+        },
+        {
+            "type": "node",
+            "id": 9293283556,
+            "lat": 48.8960748,
+            "lon": 2.378687
+        },
+        {
+            "type": "node",
+            "id": 9293283557,
+            "lat": 48.8959872,
+            "lon": 2.3789567
+        },
+        {
+            "type": "node",
+            "id": 367950,
+            "lat": 48.8947381,
+            "lon": 2.3822734
+        },
+        {
+            "type": "node",
+            "id": 17337817,
+            "lat": 48.8960684,
+            "lon": 2.3803151
+        },
+        {
+            "type": "node",
+            "id": 94188138,
+            "lat": 48.8944376,
+            "lon": 2.3814641
+        },
+        {
+            "type": "node",
+            "id": 202118936,
+            "lat": 48.8947894,
+            "lon": 2.3823308
+        },
+        {
+            "type": "node",
+            "id": 216034547,
+            "lat": 48.8959508,
+            "lon": 2.3813263
+        },
+        {
+            "type": "node",
+            "id": 216034847,
+            "lat": 48.8951429,
+            "lon": 2.3827408
+        },
+        {
+            "type": "node",
+            "id": 332431657,
+            "lat": 48.8958585,
+            "lon": 2.3791268
+        },
+        {
+            "type": "node",
+            "id": 332431658,
+            "lat": 48.8958364,
+            "lon": 2.3794528
+        },
+        {
+            "type": "node",
+            "id": 332431661,
+            "lat": 48.8958201,
+            "lon": 2.3791464
+        },
+        {
+            "type": "node",
+            "id": 332431666,
+            "lat": 48.8959094,
+            "lon": 2.3794538
+        },
+        {
+            "type": "node",
+            "id": 650137132,
+            "lat": 48.8951762,
+            "lon": 2.3826736
+        },
+        {
+            "type": "node",
+            "id": 884214096,
+            "lat": 48.8932562,
+            "lon": 2.3799596
+        },
+        {
+            "type": "node",
+            "id": 884214098,
+            "lat": 48.8943406,
+            "lon": 2.3813406
+        },
+        {
+            "type": "node",
+            "id": 884214101,
+            "lat": 48.8931716,
+            "lon": 2.3798518
+        },
+        {
+            "type": "node",
+            "id": 1721218993,
+            "lat": 48.8955733,
+            "lon": 2.3791358
+        },
+        {
+            "type": "node",
+            "id": 1721218995,
+            "lat": 48.8957718,
+            "lon": 2.37936
+        },
+        {
+            "type": "node",
+            "id": 1721218996,
+            "lat": 48.895769,
+            "lon": 2.3792391
+        },
+        {
+            "type": "node",
+            "id": 1721218997,
+            "lat": 48.8957889,
+            "lon": 2.3791855
+        },
+        {
+            "type": "node",
+            "id": 1721218998,
+            "lat": 48.8957966,
+            "lon": 2.3815966
+        },
+        {
+            "type": "node",
+            "id": 1721218999,
+            "lat": 48.8958605,
+            "lon": 2.3794615
+        },
+        {
+            "type": "node",
+            "id": 1721219000,
+            "lat": 48.8958853,
+            "lon": 2.3794618
+        },
+        {
+            "type": "node",
+            "id": 1721219001,
+            "lat": 48.895908,
+            "lon": 2.3797566
+        },
+        {
+            "type": "node",
+            "id": 1721219003,
+            "lat": 48.8959407,
+            "lon": 2.3794287
+        },
+        {
+            "type": "node",
+            "id": 1721219004,
+            "lat": 48.8959652,
+            "lon": 2.3793899
+        },
+        {
+            "type": "node",
+            "id": 1721219005,
+            "lat": 48.8959638,
+            "lon": 2.3799144
+        },
+        {
+            "type": "node",
+            "id": 1721219006,
+            "lat": 48.8959804,
+            "lon": 2.3793413
+        },
+        {
+            "type": "node",
+            "id": 1721219007,
+            "lat": 48.8959793,
+            "lon": 2.3810631
+        },
+        {
+            "type": "node",
+            "id": 1721219009,
+            "lat": 48.8959848,
+            "lon": 2.3792879
+        },
+        {
+            "type": "node",
+            "id": 1721219010,
+            "lat": 48.8960444,
+            "lon": 2.3791136
+        },
+        {
+            "type": "node",
+            "id": 1721219012,
+            "lat": 48.8960194,
+            "lon": 2.3800745
+        },
+        {
+            "type": "node",
+            "id": 1721219014,
+            "lat": 48.8960434,
+            "lon": 2.3801442
+        },
+        {
+            "type": "node",
+            "id": 1721219016,
+            "lat": 48.8960644,
+            "lon": 2.380231
+        },
+        {
+            "type": "node",
+            "id": 2828713310,
+            "lat": 48.8944873,
+            "lon": 2.3816146
+        },
+        {
+            "type": "node",
+            "id": 3376334927,
+            "lat": 48.8957874,
+            "lon": 2.3793997
+        },
+        {
+            "type": "node",
+            "id": 4022839028,
+            "lat": 48.8948448,
+            "lon": 2.3823917
+        },
+        {
+            "type": "node",
+            "id": 4214744594,
+            "lat": 48.8959575,
+            "lon": 2.3789995
+        },
+        {
+            "type": "node",
+            "id": 5752032514,
+            "lat": 48.8949588,
+            "lon": 2.3825252
+        },
+        {
+            "type": "node",
+            "id": 6296272094,
+            "lat": 48.8942777,
+            "lon": 2.3812054
+        },
+        {
+            "type": "node",
+            "id": 6303039610,
+            "lat": 48.8952931,
+            "lon": 2.3823564
+        },
+        {
+            "type": "node",
+            "id": 6303052596,
+            "lat": 48.8954622,
+            "lon": 2.3790809
+        },
+        {
+            "type": "node",
+            "id": 7198860365,
+            "lat": 48.8952014,
+            "lon": 2.3826302
+        },
+        {
+            "type": "node",
+            "id": 7507235653,
+            "lat": 48.8958095,
+            "lon": 2.3794314
+        },
+        {
+            "type": "node",
+            "id": 7890851899,
+            "lat": 48.8956881,
+            "lon": 2.3792665
+        },
+        {
+            "type": "node",
+            "id": 7890851900,
+            "lat": 48.8957631,
+            "lon": 2.3793
+        },
+        {
+            "type": "node",
+            "id": 7890882135,
+            "lat": 48.8946945,
+            "lon": 2.382159
+        },
+        {
+            "type": "node",
+            "id": 9293283559,
+            "lat": 48.8957661,
+            "lon": 2.3792696
+        },
+        {
+            "type": "node",
+            "id": 10271249529,
+            "lat": 48.894234,
+            "lon": 2.3812048
+        },
+        {
+            "type": "node",
+            "id": 94124991,
+            "lat": 48.8815948,
+            "lon": 2.3871715
+        },
+        {
+            "type": "node",
+            "id": 94126806,
+            "lat": 48.8830059,
+            "lon": 2.3855547
+        },
+        {
+            "type": "node",
+            "id": 258048194,
+            "lat": 48.8806553,
+            "lon": 2.3882544
+        },
+        {
+            "type": "node",
+            "id": 675621411,
+            "lat": 48.8822398,
+            "lon": 2.3864291
+        },
+        {
+            "type": "node",
+            "id": 675621415,
+            "lat": 48.8807415,
+            "lon": 2.3881504
+        },
+        {
+            "type": "node",
+            "id": 2042462327,
+            "lat": 48.8824721,
+            "lon": 2.3860875
+        },
+        {
+            "type": "node",
+            "id": 2808256693,
+            "lat": 48.8804905,
+            "lon": 2.3884443
+        },
+        {
+            "type": "node",
+            "id": 3646772223,
+            "lat": 48.8829306,
+            "lon": 2.3856439
+        },
+        {
+            "type": "node",
+            "id": 3647346733,
+            "lat": 48.8805859,
+            "lon": 2.3883318
+        },
+        {
+            "type": "node",
+            "id": 4839206603,
+            "lat": 48.8825007,
+            "lon": 2.3861365
+        },
+        {
+            "type": "node",
+            "id": 4839206604,
+            "lat": 48.8827114,
+            "lon": 2.385896
+        },
+        {
+            "type": "node",
+            "id": 4839206605,
+            "lat": 48.8827165,
+            "lon": 2.3859636
+        },
+        {
+            "type": "node",
+            "id": 5633622857,
+            "lat": 48.8823175,
+            "lon": 2.3863473
+        },
+        {
+            "type": "node",
+            "id": 5633622858,
+            "lat": 48.8819759,
+            "lon": 2.3867328
+        },
+        {
+            "type": "node",
+            "id": 6496734759,
+            "lat": 48.8810388,
+            "lon": 2.3878094
+        },
+        {
+            "type": "node",
+            "id": 6496734760,
+            "lat": 48.8814654,
+            "lon": 2.3873199
+        },
+        {
+            "type": "node",
+            "id": 6496734762,
+            "lat": 48.8822634,
+            "lon": 2.3864042
+        },
+        {
+            "type": "way",
+            "id": 14111021,
+            "nodes": [
+                134518697,
+                7078599842,
+                9970049476,
+                6199034898,
+                1757367124,
+                567373586,
+                2207102228,
+                4944697097
+            ]
+        },
+        {
+            "type": "way",
+            "id": 682963075,
+            "nodes": [
+                134518691,
+                6281321066,
+                6281321067,
+                6281321068,
+                134518697
+            ]
+        },
+        {
+            "type": "way",
+            "id": 109400103,
+            "nodes": [
+                94131398,
+                1577467549,
+                2204791472,
+                94131399,
+                9758488511,
+                264796495
+            ]
+        },
+        {
+            "type": "way",
+            "id": 15411244,
+            "nodes": [
+                94131395,
+                2206936619,
+                5142458109
+            ]
+        },
+        {
+            "type": "way",
+            "id": 120997889,
+            "nodes": [
+                94131395,
+                2400234183,
+                2207102320,
+                152749117,
+                1577467552,
+                94131398
+            ]
+        },
+        {
+            "type": "way",
+            "id": 121067192,
+            "nodes": [
+                134521843,
+                2002549675
+            ]
+        },
+        {
+            "type": "way",
+            "id": 529365924,
+            "nodes": [
+                5183044619,
+                2206936613,
+                134521843
+            ]
+        },
+        {
+            "type": "way",
+            "id": 534026938,
+            "nodes": [
+                4944697097,
+                94131395
+            ]
+        },
+        {
+            "type": "way",
+            "id": 534436308,
+            "nodes": [
+                5142458109,
+                6282240953
+            ]
+        },
+        {
+            "type": "way",
+            "id": 538813973,
+            "nodes": [
+                2207102149,
+                2206936611,
+                9970049490,
+                7078599838,
+                134518691
+            ]
+        },
+        {
+            "type": "way",
+            "id": 670857468,
+            "nodes": [
+                6282240953,
+                5183044619
+            ]
+        },
+        {
+            "type": "way",
+            "id": 812891165,
+            "nodes": [
+                2002549675,
+                6419409778,
+                2207102149
+            ]
+        },
+        {
+            "type": "way",
+            "id": 10816261,
+            "nodes": [
+                96115612,
+                3647346769,
+                5142458112,
+                1990726621,
+                2575826044,
+                280723152,
+                10647243310,
+                5528878603,
+                5154910030,
+                5142458111,
+                1577467661
+            ]
+        },
+        {
+            "type": "way",
+            "id": 32424482,
+            "nodes": [
+                94126806,
+                3646772223,
+                4839206604,
+                4839206603,
+                5633622857,
+                6496734762,
+                675621411,
+                5633622858,
+                94124991,
+                6496734760,
+                6496734759,
+                675621415,
+                258048194,
+                3647346733,
+                2808256693,
+                5633622862,
+                94121972
+            ]
+        },
+        {
+            "type": "way",
+            "id": 53798368,
+            "nodes": [
+                6401904880,
+                9888409384,
+                3156359276,
+                9895711980,
+                9888409388,
+                1277048045,
+                9895478907,
+                5063883389,
+                5150429486
+            ]
+        },
+        {
+            "type": "way",
+            "id": 360133451,
+            "nodes": [
+                1577467661,
+                3647346694,
+                3647346693,
+                3647346728,
+                3647346754,
+                96153935,
+                8198686476,
+                5154910031,
+                2206863680,
+                96136841
+            ]
+        },
+        {
+            "type": "way",
+            "id": 45765306,
+            "nodes": [
+                9544609648,
+                5142458115,
+                9544609645,
+                203316630,
+                346628504
+            ]
+        },
+        {
+            "type": "way",
+            "id": 336795940,
+            "nodes": [
+                346628504,
+                2675727098,
+                679133658
+            ]
+        },
+        {
+            "type": "way",
+            "id": 976918308,
+            "nodes": [
+                679133658,
+                8198952578,
+                6401904880
+            ]
+        },
+        {
+            "type": "way",
+            "id": 1093090364,
+            "nodes": [
+                94121972,
+                6210751798,
+                9544609648
+            ]
+        },
+        {
+            "type": "way",
+            "id": 24043512,
+            "nodes": [
+                96115612,
+                6310578568,
+                2875110253,
+                9544563851,
+                429286899,
+                2878817136,
+                3528321694,
+                2365581008,
+                96115614,
+                1577984874
+            ]
+        },
+        {
+            "type": "way",
+            "id": 25477293,
+            "nodes": [
+                2053114648,
+                96136608,
+                7137599348,
+                9526522779,
+                679133656,
+                3897180430,
+                5154910028,
+                9526522773,
+                6261924600,
+                724314156,
+                96136609
+            ]
+        },
+        {
+            "type": "way",
+            "id": 31093494,
+            "nodes": [
+                96136601,
+                2365580991,
+                2365580978,
+                10249720479,
+                96136602,
+                3709186000,
+                2365580974,
+                10200622441,
+                10200622440,
+                96136603,
+                6210791951,
+                724314039
+            ]
+        },
+        {
+            "type": "way",
+            "id": 31093549,
+            "nodes": [
+                96136327,
+                2365580996,
+                96136601
+            ]
+        },
+        {
+            "type": "way",
+            "id": 53649849,
+            "nodes": [
+                724314039,
+                10213842918,
+                10213842917,
+                96136750,
+                3834589123,
+                5142458114,
+                2365580970,
+                1577984874
+            ]
+        },
+        {
+            "type": "way",
+            "id": 53798373,
+            "nodes": [
+                2365581007,
+                5150429485,
+                5063883388,
+                5150429484,
+                94124996,
+                2365580992,
+                10008318449,
+                96136327
+            ]
+        },
+        {
+            "type": "way",
+            "id": 233643337,
+            "nodes": [
+                96136609,
+                7117392137,
+                2140279526,
+                2365580977,
+                9040210603,
+                96136610
+            ]
+        },
+        {
+            "type": "way",
+            "id": 529252555,
+            "nodes": [
+                96136610,
+                2365581007
+            ]
+        },
+        {
+            "type": "way",
+            "id": 761770662,
+            "nodes": [
+                416529147,
+                9695571336,
+                2053114648
+            ]
+        },
+        {
+            "type": "way",
+            "id": 976918309,
+            "nodes": [
+                5150429486,
+                3001176149,
+                2365581007
+            ]
+        },
+        {
+            "type": "way",
+            "id": 1115336870,
+            "nodes": [
+                724314039,
+                10200622443,
+                10200622442,
+                5518213304,
+                96136605,
+                6229062602,
+                567377361,
+                3834589859,
+                96136606,
+                6261924599,
+                567379822,
+                416529147
+            ]
+        },
+        {
+            "type": "way",
+            "id": 210609568,
+            "nodes": [
+                96136841,
+                2206863656,
+                5142458110,
+                7072055122,
+                96136842,
+                7072068521,
+                203330264,
+                5154910032,
+                94131400
+            ]
+        },
+        {
+            "type": "way",
+            "id": 679307953,
+            "nodes": [
+                264796495,
+                4944697098,
+                8093151340,
+                7592846396,
+                94131400
+            ]
+        },
+        {
+            "type": "way",
+            "id": 286832215,
+            "nodes": [
+                2905104534,
+                268234010,
+                2494555642
+            ]
+        },
+        {
+            "type": "way",
+            "id": 156620488,
+            "nodes": [
+                24910805,
+                3423762974,
+                2494555632,
+                6110475821,
+                451120738,
+                2494555631,
+                6110475822,
+                24910800,
+                6110475825,
+                2494555635,
+                6147937950,
+                24910791,
+                6147968390,
+                2494555646,
+                2494555634,
+                4114527226,
+                6147988926,
+                24910559,
+                6147985174,
+                6148058550,
+                24910560,
+                6149960476,
+                24910564,
+                2905112361,
+                24910422,
+                2905112359,
+                2905112354
+            ]
+        },
+        {
+            "type": "way",
+            "id": 577311511,
+            "nodes": [
+                24910551,
+                3080638048,
+                655295780,
+                24910591,
+                6149999579,
+                1871796077,
+                56529965
+            ]
+        },
+        {
+            "type": "way",
+            "id": 24037789,
+            "nodes": [
+                2905112354,
+                3522596183,
+                4923266315,
+                6149975118,
+                3522596182,
+                6149992896,
+                2494555637,
+                3080638050,
+                24910551
+            ]
+        },
+        {
+            "type": "way",
+            "id": 4039245,
+            "nodes": [
+                8092452037,
+                1668388880,
+                8168471368,
+                2317308531,
+                4561625760,
+                202813138,
+                1871817954,
+                403462400
+            ]
+        },
+        {
+            "type": "way",
+            "id": 34675270,
+            "nodes": [
+                94250376,
+                6150085498,
+                1871818095,
+                5964808679,
+                2330869330,
+                94250560,
+                1871818030,
+                94251346,
+                3688311109,
+                6114126193,
+                94239970
+            ]
+        },
+        {
+            "type": "way",
+            "id": 868171365,
+            "nodes": [
+                8092452044,
+                8092452043,
+                8112651379,
+                8338746568,
+                8112651365,
+                8338746569,
+                8092452042,
+                8112651368,
+                8092452041,
+                8697441570,
+                8092452040,
+                8338746570,
+                8092452039,
+                8112651378,
+                8168471370,
+                8092452038,
+                8168471375,
+                8112651381
+            ]
+        },
+        {
+            "type": "way",
+            "id": 197510656,
+            "nodes": [
+                56529965,
+                6150012085,
+                6150017636,
+                54775311
+            ]
+        },
+        {
+            "type": "way",
+            "id": 224883159,
+            "nodes": [
+                94239970,
+                6114126192,
+                2494555639,
+                6114126189,
+                54775311
+            ]
+        },
+        {
+            "type": "way",
+            "id": 34675236,
+            "nodes": [
+                403462400,
+                403462425
+            ]
+        },
+        {
+            "type": "way",
+            "id": 670689932,
+            "nodes": [
+                403462425,
+                6400116391,
+                1871818127,
+                94250376
+            ]
+        },
+        {
+            "type": "way",
+            "id": 24014764,
+            "nodes": [
+                644123,
+                3423762986,
+                5155923704,
+                3036682216,
+                3036682219,
+                5140064592,
+                3036682226,
+                24911953
+            ]
+        },
+        {
+            "type": "way",
+            "id": 24014782,
+            "nodes": [
+                24910805,
+                3423762976,
+                2494555633,
+                3036682208,
+                5140064591,
+                3423762983,
+                644123
+            ]
+        },
+        {
+            "type": "way",
+            "id": 24037753,
+            "nodes": [
+                24911953,
+                178884499
+            ]
+        },
+        {
+            "type": "way",
+            "id": 52587170,
+            "nodes": [
+                24911952,
+                5155923703,
+                3036682232,
+                3423763805,
+                268233911,
+                3406965276,
+                4742879704
+            ]
+        },
+        {
+            "type": "way",
+            "id": 514809279,
+            "nodes": [
+                178884499,
+                24911952
+            ]
+        },
+        {
+            "type": "way",
+            "id": 597916567,
+            "nodes": [
+                4964977862,
+                5691709622,
+                1761398336,
+                4742879704
+            ]
+        },
+        {
+            "type": "way",
+            "id": 867336860,
+            "nodes": [
+                2270376011,
+                2889523061,
+                2905104532,
+                268234231,
+                2905104537,
+                268234194
+            ]
+        },
+        {
+            "type": "way",
+            "id": 1126474519,
+            "nodes": [
+                4964977862,
+                3406965270
+            ]
+        },
+        {
+            "type": "way",
+            "id": 1126474520,
+            "nodes": [
+                3406965270,
+                2270376011
+            ]
+        },
+        {
+            "type": "way",
+            "id": 24606807,
+            "nodes": [
+                268234194,
+                8371891035,
+                6924605637,
+                1343567797,
+                1343567346,
+                2905104535,
+                6197561108,
+                5574576562,
+                7006250363,
+                320153255
+            ]
+        },
+        {
+            "type": "way",
+            "id": 24678014,
+            "nodes": [
+                2494555643,
+                268234012,
+                2270376009,
+                7006246652,
+                6360644993,
+                320153255
+            ]
+        },
+        {
+            "type": "way",
+            "id": 241877822,
+            "nodes": [
+                2494555642,
+                268234011
+            ]
+        },
+        {
+            "type": "way",
+            "id": 517156278,
+            "nodes": [
+                268234011,
+                8146131220,
+                2494555643
+            ]
+        },
+        {
+            "type": "way",
+            "id": 4039288,
+            "nodes": [
+                135578024,
+                3843153427,
+                2282886340,
+                1088594665,
+                2078486565,
+                5009766327,
+                2537082843,
+                5009766326
+            ]
+        },
+        {
+            "type": "way",
+            "id": 14184533,
+            "nodes": [
+                135578017,
+                135578024
+            ]
+        },
+        {
+            "type": "way",
+            "id": 245453089,
+            "nodes": [
+                2526480496,
+                7069713693,
+                2526480451
+            ]
+        },
+        {
+            "type": "way",
+            "id": 512352568,
+            "nodes": [
+                5009766326,
+                5009766325,
+                5265461921
+            ]
+        },
+        {
+            "type": "way",
+            "id": 536837280,
+            "nodes": [
+                5240597744,
+                2526480496
+            ]
+        },
+        {
+            "type": "way",
+            "id": 544727632,
+            "nodes": [
+                1762073410,
+                5240597743,
+                5240597744
+            ]
+        },
+        {
+            "type": "way",
+            "id": 544728023,
+            "nodes": [
+                2330013045,
+                5009766322,
+                5240597747,
+                5240597746
+            ]
+        },
+        {
+            "type": "way",
+            "id": 544728962,
+            "nodes": [
+                5240597746,
+                644113,
+                6885941587,
+                1762073410
+            ]
+        },
+        {
+            "type": "way",
+            "id": 544730960,
+            "nodes": [
+                5265461921,
+                6659097297,
+                5009766323,
+                2330013045
+            ]
+        },
+        {
+            "type": "way",
+            "id": 172680901,
+            "nodes": [
+                135612262,
+                135578017
+            ]
+        },
+        {
+            "type": "way",
+            "id": 245453097,
+            "nodes": [
+                2526480451,
+                2536915872
+            ]
+        },
+        {
+            "type": "way",
+            "id": 196866279,
+            "nodes": [
+                219253511,
+                219253510,
+                243648870,
+                219253509,
+                243648866,
+                219253507,
+                243648869,
+                219253506,
+                2327643410,
+                243648867
+            ]
+        },
+        {
+            "type": "way",
+            "id": 19519795,
+            "nodes": [
+                219253511,
+                2526932763,
+                2327643386,
+                7187512892,
+                202809822
+            ]
+        },
+        {
+            "type": "way",
+            "id": 24662329,
+            "nodes": [
+                202810665,
+                7115407914,
+                8730403283,
+                8168471373,
+                1668389114,
+                202810546
+            ]
+        },
+        {
+            "type": "way",
+            "id": 49605510,
+            "nodes": [
+                202810665,
+                7115407913,
+                2319381288,
+                202810321,
+                2319381302,
+                6317867530,
+                7187512898,
+                7187512897,
+                202809822
+            ]
+        },
+        {
+            "type": "way",
+            "id": 156620491,
+            "nodes": [
+                644092,
+                1668388764,
+                2281243445,
+                8168471374,
+                1668388632,
+                202810546
+            ]
+        },
+        {
+            "type": "way",
+            "id": 870906307,
+            "nodes": [
+                644092,
+                8092452052,
+                8092452037
+            ]
+        },
+        {
+            "type": "way",
+            "id": 870906309,
+            "nodes": [
+                8112651381,
+                8165345402,
+                8168471369,
+                8165345403,
+                8092452037
+            ]
+        },
+        {
+            "type": "way",
+            "id": 8059209,
+            "nodes": [
+                94191592,
+                6200971609,
+                9403501664,
+                94191164
+            ]
+        },
+        {
+            "type": "way",
+            "id": 24044048,
+            "nodes": [
+                9403474283,
+                5005450406,
+                5495986275,
+                2721076779,
+                6205562280,
+                26503665,
+                6205562281,
+                5154968802,
+                5005450415,
+                6356775995,
+                4020513522,
+                10259124007,
+                10259147209
+            ]
+        },
+        {
+            "type": "way",
+            "id": 31979916,
+            "nodes": [
+                26551740,
+                94114892,
+                2499815581,
+                2499815629,
+                10223626783
+            ]
+        },
+        {
+            "type": "way",
+            "id": 156617864,
+            "nodes": [
+                94191592,
+                9403501631,
+                2499815510,
+                4920961472,
+                4920961490,
+                94125868
+            ]
+        },
+        {
+            "type": "way",
+            "id": 156992561,
+            "nodes": [
+                94191164,
+                2499815526,
+                94191744,
+                2499815540,
+                5154968803,
+                5150429487,
+                2499815563,
+                26551740
+            ]
+        },
+        {
+            "type": "way",
+            "id": 1121533824,
+            "nodes": [
+                10223626783,
+                9403474283
+            ]
+        },
+        {
+            "type": "way",
+            "id": 37190923,
+            "nodes": [
+                94125868,
+                5633622851,
+                9025564382,
+                9025612115,
+                321830099,
+                5633622853,
+                94126804,
+                243482872,
+                6071759103,
+                94126806
+            ]
+        },
+        {
+            "type": "way",
+            "id": 74864178,
+            "nodes": [
+                201646773,
+                5694829928,
+                1831214157,
+                5154968800,
+                6835802965,
+                6445429431,
+                1721218988,
+                201646642
+            ]
+        },
+        {
+            "type": "way",
+            "id": 156620490,
+            "nodes": [
+                246286552,
+                7240935587,
+                6970129939,
+                201646773
+            ]
+        },
+        {
+            "type": "way",
+            "id": 752299032,
+            "nodes": [
+                884214101,
+                8175115320,
+                884214087,
+                8174727605,
+                884214090,
+                201646773
+            ]
+        },
+        {
+            "type": "way",
+            "id": 949039246,
+            "nodes": [
+                10259147209,
+                10259124008
+            ]
+        },
+        {
+            "type": "way",
+            "id": 19435006,
+            "nodes": [
+                270234514,
+                884259409,
+                202116726,
+                884255838,
+                5150429490,
+                5150429491,
+                5694829927,
+                246286552
+            ]
+        },
+        {
+            "type": "way",
+            "id": 22690248,
+            "nodes": [
+                10259124008,
+                5083255397,
+                10205035025,
+                7089850743,
+                5150429489,
+                6463644636,
+                9560738128,
+                243352407,
+                7089850748,
+                6709451268,
+                243352115,
+                884257892,
+                202117023
+            ]
+        },
+        {
+            "type": "way",
+            "id": 24868186,
+            "nodes": [
+                270234514,
+                270234515
+            ]
+        },
+        {
+            "type": "way",
+            "id": 24868187,
+            "nodes": [
+                270234515,
+                5154968801,
+                884257911,
+                202117023
+            ]
+        },
+        {
+            "type": "way",
+            "id": 14187576,
+            "nodes": [
+                135612245,
+                7875361700,
+                7875361706,
+                7875361701,
+                7875361702,
+                7875361703,
+                1459636260,
+                1770654160,
+                2330013077,
+                1762073431,
+                5585996052,
+                2537082852,
+                135612262
+            ]
+        },
+        {
+            "type": "way",
+            "id": 25485465,
+            "nodes": [
+                135612245,
+                3195556423,
+                2829387406,
+                2078486285,
+                209148462
+            ]
+        },
+        {
+            "type": "way",
+            "id": 53098919,
+            "nodes": [
+                202806412,
+                2160034030
+            ]
+        },
+        {
+            "type": "way",
+            "id": 246685171,
+            "nodes": [
+                2160034007,
+                202806412
+            ]
+        },
+        {
+            "type": "way",
+            "id": 246685172,
+            "nodes": [
+                8092452044,
+                2160034030
+            ]
+        },
+        {
+            "type": "way",
+            "id": 246685174,
+            "nodes": [
+                2536915872,
+                2328721237,
+                1668388870,
+                2160034007
+            ]
+        },
+        {
+            "type": "way",
+            "id": 10661371,
+            "nodes": [
+                644102,
+                5299431107
+            ]
+        },
+        {
+            "type": "way",
+            "id": 24614597,
+            "nodes": [
+                2467619666,
+                2527993142,
+                644100,
+                2537179638,
+                2327643412,
+                5318393342,
+                6447688574,
+                5922426587,
+                644102
+            ]
+        },
+        {
+            "type": "way",
+            "id": 178237238,
+            "nodes": [
+                442371,
+                130054229,
+                472126505,
+                1886061102
+            ]
+        },
+        {
+            "type": "way",
+            "id": 191694881,
+            "nodes": [
+                1245546489,
+                442371
+            ]
+        },
+        {
+            "type": "way",
+            "id": 238907028,
+            "nodes": [
+                5535891520,
+                2467125815,
+                5535894841,
+                5535894836,
+                2467125816,
+                2721076947,
+                2721076948,
+                5922462383,
+                2472523774,
+                5535891519,
+                2467125817,
+                2721076956,
+                2721076961,
+                6553496792,
+                2472523776,
+                6553496791,
+                2472523778
+            ]
+        },
+        {
+            "type": "way",
+            "id": 239478601,
+            "nodes": [
+                2472523778,
+                2467125818,
+                2472523779
+            ]
+        },
+        {
+            "type": "way",
+            "id": 239478604,
+            "nodes": [
+                2829333366,
+                2721077027,
+                2472523781,
+                5922426363,
+                2472523758,
+                9846663704,
+                4685452347,
+                2829333369,
+                2537097424,
+                1245546489
+            ]
+        },
+        {
+            "type": "way",
+            "id": 548562634,
+            "nodes": [
+                331419425,
+                6830740167,
+                5535894834,
+                7890833477
+            ]
+        },
+        {
+            "type": "way",
+            "id": 654160910,
+            "nodes": [
+                201646527,
+                331419425
+            ]
+        },
+        {
+            "type": "way",
+            "id": 845790437,
+            "nodes": [
+                5299431107,
+                6888381048,
+                9447843430,
+                6830740168,
+                201646527
+            ]
+        },
+        {
+            "type": "way",
+            "id": 845790438,
+            "nodes": [
+                7890833477,
+                7890833476
+            ]
+        },
+        {
+            "type": "way",
+            "id": 845790439,
+            "nodes": [
+                7890833476,
+                5922426585,
+                2721076937
+            ]
+        },
+        {
+            "type": "way",
+            "id": 938727007,
+            "nodes": [
+                331432688,
+                7244196081,
+                10125758487,
+                1254371671,
+                2467619666
+            ]
+        },
+        {
+            "type": "way",
+            "id": 977135079,
+            "nodes": [
+                2721076937,
+                5535891520
+            ]
+        },
+        {
+            "type": "way",
+            "id": 1024593144,
+            "nodes": [
+                2472523779,
+                2829333366
+            ]
+        },
+        {
+            "type": "way",
+            "id": 3498992,
+            "nodes": [
+                331419425,
+                5475302328,
+                6130070518,
+                600018699,
+                5535891510,
+                6447566285,
+                4504727545,
+                7247026756,
+                6130070532,
+                17348337,
+                4539453718
+            ]
+        },
+        {
+            "type": "way",
+            "id": 223928002,
+            "nodes": [
+                209148462,
+                6313784201,
+                6313784209,
+                8697441571,
+                6313810990,
+                412699470,
+                672221668,
+                2078486283,
+                2829387408,
+                2829333374,
+                672221671,
+                2829333375,
+                2354781588,
+                10141424125,
+                2829333377,
+                2721077084,
+                5922426384,
+                1886061102
+            ]
+        },
+        {
+            "type": "way",
+            "id": 239596804,
+            "nodes": [
+                331432688,
+                202807668,
+                2327643407,
+                202807056,
+                7244268574,
+                2327643404,
+                331434319,
+                2327643400,
+                2846648059,
+                2526932792,
+                2846648058,
+                243648867
+            ]
+        },
+        {
+            "type": "way",
+            "id": 4039523,
+            "nodes": [
+                4539453718,
+                8175277965,
+                6888358753,
+                7890882158,
+                17348332,
+                17348331,
+                6445736504,
+                17348330,
+                1721219027,
+                6445734786,
+                6130070519
+            ]
+        },
+        {
+            "type": "way",
+            "id": 654160913,
+            "nodes": [
+                6130070519,
+                17337815
+            ]
+        },
+        {
+            "type": "way",
+            "id": 4039430,
+            "nodes": [
+                332431658,
+                1721219001,
+                1721219005
+            ]
+        },
+        {
+            "type": "way",
+            "id": 20336544,
+            "nodes": [
+                216034547,
+                1721218998,
+                7198860365,
+                650137132,
+                216034847
+            ]
+        },
+        {
+            "type": "way",
+            "id": 30168418,
+            "nodes": [
+                332431658,
+                1721218999,
+                1721219000,
+                332431666,
+                1721219003,
+                1721219004,
+                1721219006,
+                1721219009
+            ]
+        },
+        {
+            "type": "way",
+            "id": 673062632,
+            "nodes": [
+                216034847,
+                5752032514,
+                4022839028,
+                202118936,
+                367950
+            ]
+        },
+        {
+            "type": "way",
+            "id": 673062635,
+            "nodes": [
+                94188138,
+                884214098,
+                10271249529,
+                884214096,
+                884214101
+            ]
+        },
+        {
+            "type": "way",
+            "id": 686570444,
+            "nodes": [
+                332431657,
+                332431661,
+                1721218997,
+                1721218996,
+                9293283559,
+                7890851900,
+                1721218995
+            ]
+        },
+        {
+            "type": "way",
+            "id": 687388759,
+            "nodes": [
+                1721218995,
+                3376334927,
+                7507235653,
+                332431658
+            ]
+        },
+        {
+            "type": "way",
+            "id": 694164003,
+            "nodes": [
+                367950,
+                7890882135,
+                2828713310,
+                94188138
+            ]
+        },
+        {
+            "type": "way",
+            "id": 845789144,
+            "nodes": [
+                7890851899,
+                1721218995
+            ]
+        },
+        {
+            "type": "way",
+            "id": 845793684,
+            "nodes": [
+                1721219012,
+                1721219014,
+                1721219016,
+                17337817,
+                1721219007,
+                216034547
+            ]
+        },
+        {
+            "type": "way",
+            "id": 845793685,
+            "nodes": [
+                1721219005,
+                1721219012
+            ]
+        },
+        {
+            "type": "way",
+            "id": 4039917,
+            "nodes": [
+                1721219009,
+                1721219010,
+                9293283555,
+                17337815
+            ]
+        },
+        {
+            "type": "way",
+            "id": 172017269,
+            "nodes": [
+                201646642,
+                1721218990,
+                7574504788,
+                1721218991,
+                599973345,
+                1830489426,
+                4214740188,
+                8858087814,
+                1721218993,
+                7890851899
+            ]
+        },
+        {
+            "type": "way",
+            "id": 421718450,
+            "nodes": [
+                17337815,
+                9293283556,
+                17348329,
+                9293283557,
+                4214744594,
+                332431657
+            ]
+        }
+    ]
+}
